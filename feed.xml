@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Portfolio</title>
+    <link href="https://colinmurrayart.github.io/gh_pages/feed.xml" rel="self" />
+    <link href="https://colinmurrayart.github.io/gh_pages" />
+    <updated>2023-10-02T12:24:44+01:00</updated>
+    <author>
+        <name>Colin Murray</name>
+    </author>
+    <id>https://colinmurrayart.github.io/gh_pages</id>
+
+    <entry>
+        <title>Contact Me</title>
+        <author>
+            <name>Colin Murray</name>
+        </author>
+        <link href="https://colinmurrayart.github.io/gh_pages/contact-me.html"/>
+        <id>https://colinmurrayart.github.io/gh_pages/contact-me.html</id>
+
+        <updated>2023-10-02T12:23:58+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Contact Form goes here..... Contact Me
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Contact Form goes here.....</p>
+<p><a href="https://colinmurrayart.github.io/gh_pages/contact-me.html"></a><a href="https://colinmurrayart.github.io/gh_pages/contact-me.html" class="btn">Contact Me</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Self Portrait</title>
+        <author>
+            <name>Colin Murray</name>
+        </author>
+        <link href="https://colinmurrayart.github.io/gh_pages/self-portrait.html"/>
+        <id>https://colinmurrayart.github.io/gh_pages/self-portrait.html</id>
+        <media:content url="https://colinmurrayart.github.io/gh_pages/media/posts/9/sp_wearing_glasses.jpg" medium="image" />
+
+        <updated>2023-10-02T12:24:05+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://colinmurrayart.github.io/gh_pages/media/posts/9/sp_wearing_glasses.jpg" alt="Self-portrait wearing glasses – oil on panel - 40 x 46 cm" />
+                    Intro text Self-portrait holding a lily – oil on panel – 41 x 71 cm Self-portrait holding a palette –&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://colinmurrayart.github.io/gh_pages/media/posts/9/sp_wearing_glasses.jpg" class="type:primaryImage" alt="Self-portrait wearing glasses – oil on panel - 40 x 46 cm" /></p>
+                <blockquote>
+<p>Intro text</p>
+</blockquote>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/9/gallery/sp_holding_lilly.jpg" data-size="1453x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/9/gallery/sp_holding_lilly-thumbnail.jpg" alt="Self-portrait holding a lily – oil on panel – 41 x 71 cm" width="768" height="1353"></a>
+<figcaption>Self-portrait holding a lily – oil on panel – 41 x 71 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/9/gallery/sp_holding_palette.jpg" data-size="1815x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/9/gallery/sp_holding_palette-thumbnail.jpg" alt="Self-portrait holding a palette – oil on panel – 43 x 61 cm" width="768" height="1083"></a>
+<figcaption>Self-portrait holding a palette – oil on panel – 43 x 61 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/9/gallery/sp_wearing_glasses.jpg" data-size="2049x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/9/gallery/sp_wearing_glasses-thumbnail.jpg" alt="Self-portrait wearing glasses – oil on panel - 40 x 46 cm" width="768" height="960"></a>
+<figcaption>Self-portrait wearing glasses – oil on panel - 40 x 46 cm</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Miscellaneous</title>
+        <author>
+            <name>Colin Murray</name>
+        </author>
+        <link href="https://colinmurrayart.github.io/gh_pages/miscellaneous.html"/>
+        <id>https://colinmurrayart.github.io/gh_pages/miscellaneous.html</id>
+        <media:content url="https://colinmurrayart.github.io/gh_pages/media/posts/8/night.jpg" medium="image" />
+
+        <updated>2023-10-02T12:24:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://colinmurrayart.github.io/gh_pages/media/posts/8/night.jpg" alt="Night – oil on canvas - 51 x 41 cm" />
+                    Intro Text Butsudan – oil on panel – 61 x 86 cm Still life with Guinness – oil on panel&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://colinmurrayart.github.io/gh_pages/media/posts/8/night.jpg" class="type:primaryImage" alt="Night – oil on canvas - 51 x 41 cm" /></p>
+                <blockquote>
+<p>Intro Text</p>
+</blockquote>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/8/gallery/butsudan.jpg" data-size="1749x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/8/gallery/butsudan-thumbnail.jpg" alt="Butsudan – oil on panel – 61 x 86 cm" width="768" height="1124"></a>
+<figcaption>Butsudan – oil on panel – 61 x 86 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/8/gallery/still_life_with_guiness.jpg" data-size="2560x1784"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/8/gallery/still_life_with_guiness-thumbnail.jpg" alt="Still life with Guinness – oil on panel – 71 x 51 cm" width="768" height="535"></a>
+<figcaption>Still life with Guinness – oil on panel – 71 x 51 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/8/gallery/female_nude.jpg" data-size="2113x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/8/gallery/female_nude-thumbnail.jpg" alt="Drawing female nude" width="768" height="930"></a>
+<figcaption>Drawing female nude</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/8/gallery/night.jpg" data-size="2560x2040"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/8/gallery/night-thumbnail.jpg" alt="Night – oil on canvas - 51 x 41 cm" width="768" height="612"></a>
+<figcaption>Night – oil on canvas - 51 x 41 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/8/gallery/wave.jpg" data-size="2560x2042"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/8/gallery/wave-thumbnail.jpg" alt="Wave - oil on canvas – 51 x 41 cm" width="768" height="613"></a>
+<figcaption>Wave - oil on canvas – 51 x 41 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/8/gallery/wave-2.jpg" data-size="2560x2051"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/8/gallery/wave-2-thumbnail.jpg" alt="Wave - oil on canvas – 51 x 41 cm" width="768" height="615"></a>
+<figcaption>Wave - oil on canvas – 51 x 41 cm</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fabric Painting</title>
+        <author>
+            <name>Colin Murray</name>
+        </author>
+        <link href="https://colinmurrayart.github.io/gh_pages/fabric-painting.html"/>
+        <id>https://colinmurrayart.github.io/gh_pages/fabric-painting.html</id>
+        <media:content url="https://colinmurrayart.github.io/gh_pages/media/posts/7/bob_marley.jpg" medium="image" />
+
+        <updated>2023-10-02T12:24:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://colinmurrayart.github.io/gh_pages/media/posts/7/bob_marley.jpg" alt="Bob Marley" />
+                    Intro text Pete Tosh Bob Marley Big Youth Prince Jazzbo Valentino Emperor Moth Toucan with Guinness
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://colinmurrayart.github.io/gh_pages/media/posts/7/bob_marley.jpg" class="type:primaryImage" alt="Bob Marley" /></p>
+                <blockquote>
+<p>Intro text</p>
+</blockquote>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/peter_tosh.jpg" data-size="2560x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/peter_tosh-thumbnail.jpg" alt="Pete Tosh" width="768" height="768"></a>
+<figcaption>Pete Tosh</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/bob_marley.jpg" data-size="2075x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/bob_marley-thumbnail.jpg" alt="Bob Marley" width="768" height="948"></a>
+<figcaption>Bob Marley</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/big_youth.jpg" data-size="1851x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/big_youth-thumbnail.jpg" alt="Big Youth" width="768" height="1062"></a>
+<figcaption>Big Youth</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/prince_jazzbo.jpg" data-size="2112x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/prince_jazzbo-thumbnail.jpg" alt="Prince Jazzbo" width="768" height="931"></a>
+<figcaption>Prince Jazzbo</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/valentino.jpg" data-size="2026x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/valentino-thumbnail.jpg" alt="Valentino" width="768" height="970"></a>
+<figcaption>Valentino</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/emperor_butterfly.jpg" data-size="2560x2176"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/emperor_butterfly-thumbnail.jpg" alt="Emperor Moth" width="768" height="653"></a>
+<figcaption>Emperor Moth</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/toucan_with_guiness.jpg" data-size="1843x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/7/gallery/toucan_with_guiness-thumbnail.jpg" alt="Toucan with Guinness" width="768" height="1067"></a>
+<figcaption>Toucan with Guinness</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Abney Park</title>
+        <author>
+            <name>Colin Murray</name>
+        </author>
+        <link href="https://colinmurrayart.github.io/gh_pages/abney-park.html"/>
+        <id>https://colinmurrayart.github.io/gh_pages/abney-park.html</id>
+        <media:content url="https://colinmurrayart.github.io/gh_pages/media/posts/6/cirrus_minor.jpg" medium="image" />
+
+        <updated>2023-10-02T12:24:24+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://colinmurrayart.github.io/gh_pages/media/posts/6/cirrus_minor.jpg" alt="Cirrus Minor – oil on canvas – 91 x61 cm" />
+                    Intro text A Dead Tree – oil on panel – 41 x 51 cm Cirrus Minor – oil on canvas&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://colinmurrayart.github.io/gh_pages/media/posts/6/cirrus_minor.jpg" class="type:primaryImage" alt="Cirrus Minor – oil on canvas – 91 x61 cm" /></p>
+                <blockquote>
+<p>Intro text</p>
+</blockquote>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/dead_tree.jpg" data-size="1860x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/dead_tree-thumbnail.jpg" alt="A Dead Tree – oil on panel – 41 x 51 cm" width="768" height="1057"></a>
+<figcaption>A Dead Tree – oil on panel – 41 x 51 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/cirrus_minor.jpg" data-size="2560x1680"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/cirrus_minor-thumbnail.jpg" alt="Cirrus Minor – oil on canvas – 91 x61 cm" width="768" height="504"></a>
+<figcaption>Cirrus Minor – oil on canvas – 91 x61 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/melting_snow.jpg" data-size="2092x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/melting_snow-thumbnail.jpg" alt="Melting Snow – oil on panel – 58 x 76 cm" width="768" height="940"></a>
+<figcaption>Melting Snow – oil on panel – 58 x 76 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/under_heavy_snow.jpg" data-size="2560x2583"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/under_heavy_snow-thumbnail.jpg" alt="Heavy Snow – oil on panel – 122 x 122 cm" width="768" height="775"></a>
+<figcaption>Heavy Snow – oil on panel – 122 x 122 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/rising_mist.jpg" data-size="2560x2127"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/rising_mist-thumbnail.jpg" alt="Rising Mist – oil on canvas – 60 x 51 cm" width="768" height="638"></a>
+<figcaption>Rising Mist – oil on canvas – 60 x 51 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/after_the_floods.jpg" data-size="2560x2000"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/after_the_floods-thumbnail.jpg" alt="After the Floods – oil on canvas – 101 x 76 cm" width="768" height="600"></a>
+<figcaption>After the Floods – oil on canvas – 101 x 76 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/after_the_floods_warm.jpg" data-size="2560x1963"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/6//gallery/after_the_floods_warm-thumbnail.jpg" alt="After the Floods Warm – oil on canvas – 101 x 76 cm" width="768" height="589"></a>
+<figcaption>After the Floods Warm – oil on canvas – 101 x 76 cm</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>City &amp; Landscape</title>
+        <author>
+            <name>Colin Murray</name>
+        </author>
+        <link href="https://colinmurrayart.github.io/gh_pages/city-and-landscape.html"/>
+        <id>https://colinmurrayart.github.io/gh_pages/city-and-landscape.html</id>
+        <media:content url="https://colinmurrayart.github.io/gh_pages/media/posts/5/three_crowns.jpg" medium="image" />
+
+        <updated>2023-10-02T12:24:30+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://colinmurrayart.github.io/gh_pages/media/posts/5/three_crowns.jpg" alt="Three Crowns – oil on panel – 101 x 76" />
+                    Intro text Three Crowns – oil on panel – 101 x 76 One for Sorrow – oil on canvas –&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://colinmurrayart.github.io/gh_pages/media/posts/5/three_crowns.jpg" class="type:primaryImage" alt="Three Crowns – oil on panel – 101 x 76" /></p>
+                <blockquote>
+<p>Intro text</p>
+</blockquote>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/three_crowns.jpg" data-size="2560x2013"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/three_crowns-thumbnail.jpg" alt="Three Crowns – oil on panel – 101 x 76" width="768" height="604"></a>
+<figcaption>Three Crowns – oil on panel – 101 x 76</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/one_for_sorrow.jpg" data-size="1559x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/one_for_sorrow-thumbnail.jpg" alt="One for Sorrow – oil on canvas – 51 x 80" width="768" height="1261"></a>
+<figcaption>One for Sorrow – oil on canvas – 51 x 80</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/two_for_joy.jpg" data-size="1733x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/two_for_joy-thumbnail.jpg" alt="Two for Joy – oil on canvas – 51 x 75" width="768" height="1134"></a>
+<figcaption>Two for Joy – oil on canvas – 51 x 75</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/tradex_isle_of_dogs.jpg" data-size="2560x2439"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/tradex_isle_of_dogs-thumbnail.jpg" alt="Tradex Isle of Dogs – oil on canvas – 91 x 86" width="768" height="732"></a>
+<figcaption>Tradex Isle of Dogs – oil on canvas – 91 x 86</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/tradex_minories.jpg" data-size="1957x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/tradex_minories-thumbnail.jpg" alt="Tradex Minories – oil on canvas – 71 x 101" width="768" height="1005"></a>
+<figcaption>Tradex Minories – oil on canvas – 71 x 101</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/all_saints.jpg" data-size="2090x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/all_saints-thumbnail.jpg" alt="All Saints – oil on canvas – 53 x 64 cm" width="768" height="941"></a>
+<figcaption>All Saints – oil on canvas – 53 x 64 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/west_wall.jpg" data-size="1926x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/west_wall-thumbnail.jpg" alt="West Wall – oil on canvas – 76 x 99" width="768" height="1021"></a>
+<figcaption>West Wall – oil on canvas – 76 x 99</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/ruined_abbey.jpg" data-size="2035x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/ruined_abbey-thumbnail.jpg" alt="Ruined Abbey – oil on canvas – 61 x 76" width="768" height="966"></a>
+<figcaption>Ruined Abbey – oil on canvas – 61 x 76</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/birds_eye_view.jpg" data-size="1535x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/birds_eye_view-thumbnail.jpg" alt="Bird’s eye view – oil on canvas – 58 x 99 cm" width="768" height="1281"></a>
+<figcaption>Bird’s eye view – oil on canvas – 58 x 99 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/friday_woods.jpg" data-size="2560x2032"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/friday_woods-thumbnail.jpg" alt="Friday Woods –oil on panel – 122 x 91 cm" width="768" height="610"></a>
+<figcaption>Friday Woods –oil on panel – 122 x 91 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/elmstead_farm.jpg" data-size="2098x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/5/gallery/elmstead_farm-thumbnail.jpg" alt="Elmstead Farm – oil on panel – 42 x 51 cm" width="768" height="937"></a>
+<figcaption>Elmstead Farm – oil on panel – 42 x 51 cm</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Portraits</title>
+        <author>
+            <name>Colin Murray</name>
+        </author>
+        <link href="https://colinmurrayart.github.io/gh_pages/portraits.html"/>
+        <id>https://colinmurrayart.github.io/gh_pages/portraits.html</id>
+        <media:content url="https://colinmurrayart.github.io/gh_pages/media/posts/4/jack_crompton.jpg" medium="image" />
+
+        <updated>2023-09-27T13:42:54+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://colinmurrayart.github.io/gh_pages/media/posts/4/jack_crompton.jpg" alt="Jack – oil on panel – 35 x 41 cm" />
+                    I have painted numerous portraits over the years including many commissions. Pam – oil on canvas – 81 x 112&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://colinmurrayart.github.io/gh_pages/media/posts/4/jack_crompton.jpg" class="type:primaryImage" alt="Jack – oil on panel – 35 x 41 cm" /></p>
+                <blockquote>
+<p>I have painted numerous portraits over the years including many commissions.</p>
+</blockquote>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/pam.jpg" data-size="1858x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/pam-thumbnail.jpg" alt="Pam – oil on canvas – 81 x 112 cm" width="768" height="1058"></a>
+<figcaption>Pam – oil on canvas – 81 x 112 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/cookie.jpg" data-size="1408x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/cookie-thumbnail.jpg" alt="Cookie – oil on canvas – 61 x 111 cm" width="768" height="1396"></a>
+<figcaption>Cookie – oil on canvas – 61 x 111 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/ben.jpg" data-size="1557x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/ben-thumbnail.jpg" alt="Ben – oil on panel – 81 x 137 cm" width="768" height="1263"></a>
+<figcaption>Ben – oil on panel – 81 x 137 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/cynthia.jpg" data-size="1936x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/cynthia-thumbnail.jpg" alt="Cynthia – oil on canvas – 35 x 46 cm" width="768" height="1016"></a>
+<figcaption>Cynthia – oil on canvas – 35 x 46 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/joan.jpg" data-size="2018x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/joan-thumbnail.jpg" alt="Joan – oil on canvas – 41 x 51 cm" width="768" height="974"></a>
+<figcaption>Joan – oil on canvas – 41 x 51 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/sue.jpg" data-size="2294x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/sue-thumbnail.jpg" alt="Sue – oil on panel – 39 x 42 cm" width="768" height="857"></a>
+<figcaption>Sue – oil on panel – 39 x 42 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/amie.jpg" data-size="1973x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/amie-thumbnail.jpg" alt="Amie – oil on canvas – 42 x 56 cm" width="768" height="996"></a>
+<figcaption>Amie – oil on canvas – 42 x 56 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/jim.jpg" data-size="2560x2524"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/jim-thumbnail.jpg" alt="Jim – oil on panel – 53 x 53 cm" width="768" height="757"></a>
+<figcaption>Jim – oil on panel – 53 x 53 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/jack_crompton.jpg" data-size="1839x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/jack_crompton-thumbnail.jpg" alt="Jack – oil on panel – 35 x 41 cm" width="768" height="1069"></a>
+<figcaption>Jack – oil on panel – 35 x 41 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/tj.jpg" data-size="2165x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/tj-thumbnail.jpg" alt="T J – oil on panel – 51 x 61 cm" width="768" height="908"></a>
+<figcaption>T J – oil on panel – 51 x 61 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/henry.jpg" data-size="2179x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/henry-thumbnail.jpg" alt="Henry – oil on canvas – 47 x 58 cm" width="768" height="902"></a>
+<figcaption>Henry – oil on canvas – 47 x 58 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/jo_and_sam.jpg" data-size="2057x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/jo_and_sam-thumbnail.jpg" alt="Jo and Sam – oil on canvas – 58 x 79 cm" width="768" height="956"></a>
+<figcaption>Jo and Sam – oil on canvas – 58 x 79 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/martha.jpg" data-size="2071x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/4//gallery/martha-thumbnail.jpg" alt="Martha – oil on panel – 41 x 51 cm" width="768" height="949"></a>
+<figcaption>Martha – oil on panel – 41 x 51 cm</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fantasy</title>
+        <author>
+            <name>Colin Murray</name>
+        </author>
+        <link href="https://colinmurrayart.github.io/gh_pages/fantasy.html"/>
+        <id>https://colinmurrayart.github.io/gh_pages/fantasy.html</id>
+        <media:content url="https://colinmurrayart.github.io/gh_pages/media/posts/3/green_man.jpg" medium="image" />
+
+        <updated>2023-10-02T12:24:35+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://colinmurrayart.github.io/gh_pages/media/posts/3/green_man.jpg" alt="The Green Man – oil on canvas - 49 x 60 cm" />
+                    This gallery features various pictures with elements of the fantastic. Orpheus playing to the Animals – oil on panel –&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://colinmurrayart.github.io/gh_pages/media/posts/3/green_man.jpg" class="type:primaryImage" alt="The Green Man – oil on canvas - 49 x 60 cm" /></p>
+                <blockquote>
+<p>This gallery features various pictures with elements of the fantastic.</p>
+</blockquote>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/orpheus_warm.jpg" data-size="1935x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/orpheus_warm-thumbnail.jpg" alt="Orpheus playing to the Animals – oil on panel – 76 x 100 cm" width="768" height="1016"></a>
+<figcaption>Orpheus playing to the Animals – oil on panel – 76 x 100 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/eternity_of_life.jpg" data-size="1908x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/eternity_of_life-thumbnail.jpg" alt="The Eternity of Life – oil on panel – 45 x 61 cm" width="768" height="1030"></a>
+<figcaption>The Eternity of Life – oil on panel – 45 x 61 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/owl_and_the_pussycat.jpg" data-size="2650x1034"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/owl_and_the_pussycat-thumbnail.jpg" alt="The Owl and the Pussycat – oil on canvas – 39 x 17 cm" width="768" height="300"></a>
+<figcaption>The Owl and the Pussycat – oil on canvas – 39 x 17 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/mermaid_and_dolphin.jpg" data-size="2560x2128"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/mermaid_and_dolphin-thumbnail.jpg" alt="Mermaid and Fishes – oil on canvas – 52 x 43 cm" width="768" height="638"></a>
+<figcaption>Mermaid and Fishes – oil on canvas – 52 x 43 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/mermaid-and_dolphin.jpg" data-size="2560x2127"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/mermaid-and_dolphin-thumbnail.jpg" alt="Mermaid and Dolphin – oil on canvas – 52 x 43 cm" width="768" height="638"></a>
+<figcaption>Mermaid and Dolphin – oil on canvas – 52 x 43 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/animal_butchers.jpg" data-size="2089x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/animal_butchers-thumbnail.jpg" alt="The Animal Butchers – oil on panel – 43 x 52 cm" width="768" height="941"></a>
+<figcaption>The Animal Butchers – oil on panel – 43 x 52 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/green_man.jpg" data-size="2083x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/green_man-thumbnail.jpg" alt="The Green Man – oil on canvas - 49 x 60 cm" width="768" height="944"></a>
+<figcaption>The Green Man – oil on canvas - 49 x 60 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/art_collector.jpg" data-size="2560x1984"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/art_collector-thumbnail.jpg" alt="The Art Collector – oil on canvas - 155 x 122 cm" width="768" height="595"></a>
+<figcaption>The Art Collector – oil on canvas - 155 x 122 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/hitler_buddha.jpg" data-size="2047x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/hitler_buddha-thumbnail.jpg" alt="Hitler/Buddha – oil on canvas – 34 x 45 cm" width="768" height="960"></a>
+<figcaption>Hitler/Buddha – oil on canvas – 34 x 45 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/lotus_flower.jpg" data-size="1905x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/lotus_flower-thumbnail.jpg" alt="Lotus Flower – oil on panel – 43 x 61 cm" width="768" height="1032"></a>
+<figcaption>Lotus Flower – oil on panel – 43 x 61 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/buddha_of-the_lotus.jpg" data-size="1910x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/3//gallery/buddha_of-the_lotus-thumbnail.jpg" alt="The Buddha of the Lotus – 44 x 59 cm" width="768" height="1029"></a>
+<figcaption>The Buddha of the Lotus – 44 x 59 cm</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Recent</title>
+        <author>
+            <name>Colin Murray</name>
+        </author>
+        <link href="https://colinmurrayart.github.io/gh_pages/recent.html"/>
+        <id>https://colinmurrayart.github.io/gh_pages/recent.html</id>
+        <media:content url="https://colinmurrayart.github.io/gh_pages/media/posts/2/alice.jpg" medium="image" />
+
+        <updated>2023-10-02T12:24:39+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://colinmurrayart.github.io/gh_pages/media/posts/2/alice.jpg" alt="Alice and the Caterpillar – oil on canvas – 76 x 87 cm" />
+                    The pictures in this gallery are all items that I have worked on over the last two years. Memento Mori&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://colinmurrayart.github.io/gh_pages/media/posts/2/alice.jpg" class="type:primaryImage" alt="Alice and the Caterpillar – oil on canvas – 76 x 87 cm" /></p>
+                <blockquote>
+<p>The pictures in this gallery are all items that I have worked on over the last two years.</p>
+</blockquote>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/2/gallery/memento.jpg" data-size="2560x1900"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/2/gallery/memento-thumbnail.jpg" alt="Memento Mori – oil on canvas – 102 x 76 cm" width="768" height="570"></a>
+<figcaption>Memento Mori – oil on canvas – 102 x 76 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/2/gallery/alice.jpg" data-size="2222x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/2/gallery/alice-thumbnail.jpg" alt="Alice and the Caterpillar – oil on canvas – 76 x 87 cm" width="768" height="885"></a>
+<figcaption>Alice and the Caterpillar – oil on canvas – 76 x 87 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/2/gallery/samuel_coleridge_taylor.jpg" data-size="2340x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/2/gallery/samuel_coleridge_taylor-thumbnail.jpg" alt="Samuel Coleridge Taylor – oil on canvas – 55 x 60 cm" width="768" height="840"></a>
+<figcaption>Samuel Coleridge Taylor – oil on canvas – 55 x 60 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/2/gallery/triumph_of_folly.jpg" data-size="2560x1920"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/2/gallery/triumph_of_folly-thumbnail.jpg" alt="The Triumph of Folly – oil on canvas – 102 x 76 cm" width="768" height="576"></a>
+<figcaption>The Triumph of Folly – oil on canvas – 102 x 76 cm</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Biography</title>
+        <author>
+            <name>Colin Murray</name>
+        </author>
+        <link href="https://colinmurrayart.github.io/gh_pages/about.html"/>
+        <id>https://colinmurrayart.github.io/gh_pages/about.html</id>
+        <media:content url="https://colinmurrayart.github.io/gh_pages/media/posts/1/sp_holding_palette.jpg" medium="image" />
+
+        <updated>2023-10-02T12:24:44+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://colinmurrayart.github.io/gh_pages/media/posts/1/sp_holding_palette.jpg" alt="Self-portrait holding a palette – oil on panel – 43 x 61 cm" />
+                    I was born in 1956 and I began painting in oils when I was twelve years old. When I was&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://colinmurrayart.github.io/gh_pages/media/posts/1/sp_holding_palette.jpg" class="type:primaryImage" alt="Self-portrait holding a palette – oil on panel – 43 x 61 cm" /></p>
+                <p class="dropcap">I was born in 1956 and I began painting in oils when I was twelve years old. When I was seventeen I attended a two-year Foundation Course and I have a Ba hons degree in Fine Art. I also have a City and Guilds Teaching Certificate and I have taught in schools and also given private tuition. I teach basic drawing skills, especially from life, and painting and drawing technique as these are things that can be taught.</p>
+<p>My work is figurative and I paint various kinds of pictures sometimes from life and sometimes I use photographic references. Regarding the use of photographs thanks to home printing it is much easier to produce the source material I need for my pictures. I cannot conjure a complex realistic scene from my imagination so I study various images and adapt them to my purpose a good example of this is my most recent picture ‘Memento Mori’.</p>
+<p>As to where I stand in terms of contemporary art I’ve realised, as time goes by, that I have more in common with Outsider Art than any other trend. When I consider that I’m largely self-taught, most of my work is obsessively detailed and I have always operated outside of the mainstream. However my work has proved popular among a small group of business people and private collectors.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/1/gallery/sp_holding_lilly.jpg" data-size="1453x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/1/gallery/sp_holding_lilly-thumbnail.jpg" alt="Self-portrait holding a lily – oil on panel – 41 x 71 cm" width="768" height="1353"></a>
+<figcaption>Self-portrait holding a lily – oil on panel – 41 x 71 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/1/gallery/sp_holding_palette.jpg" data-size="1815x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/1/gallery/sp_holding_palette-thumbnail.jpg" alt="Self-portrait holding a palette – oil on panel – 43 x 61 cm" width="768" height="1083"></a>
+<figcaption>Self-portrait holding a palette – oil on panel – 43 x 61 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayart.github.io/gh_pages/media/posts/1/gallery/sp_wearing_glasses.jpg" data-size="2049x2560"><img decoding="async" loading="lazy" src="https://colinmurrayart.github.io/gh_pages/media/posts/1/gallery/sp_wearing_glasses-thumbnail.jpg" alt="Self-portrait wearing glasses – oil on panel - 40 x 46 cm" width="768" height="960"></a>
+<figcaption>Self-portrait wearing glasses – oil on panel - 40 x 46 cm</figcaption>
+</figure>
+</div></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
