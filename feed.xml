@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://colinmurrayart.github.io/gh_pages/feed.xml" rel="self" />
     <link href="https://colinmurrayart.github.io/gh_pages" />
-    <updated>2023-10-12T12:13:13+01:00</updated>
+    <updated>2023-10-12T13:29:02+01:00</updated>
     <author>
         <name>Colin Murray</name>
     </author>
@@ -17,15 +17,16 @@
         <link href="https://colinmurrayart.github.io/gh_pages/buy-my-art.html"/>
         <id>https://colinmurrayart.github.io/gh_pages/buy-my-art.html</id>
 
-        <updated>2023-10-12T12:07:18+01:00</updated>
+        <updated>2023-10-12T13:22:00+01:00</updated>
             <summary>
                 <![CDATA[
-                    Blurb
+                    Most of the images on this website are for sale in one form or another, if you wish to purchase&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Blurb</p>
+                <p class="dropcap">Most of the images on this website are for sale in one form or another, if you wish to purchase an original oil painting or order a Fine Art quality stretcher-framed canvas print prices start from £300. If you want to commission a picture, once again, prices begin at £300. If you want a simple image painted onto a garment prices begin at £200. The pictures in Recent and certain other paintings are not yet for sale.</p>
+<p style="text-align: center;"><a href="https://colinmurrayart.github.io/gh_pages/contact-me.html" class="btn">Please contact me for more information.</a></p>
             ]]>
         </content>
     </entry>
@@ -539,7 +540,7 @@
         <link href="https://colinmurrayart.github.io/gh_pages/contact-me.html"/>
         <id>https://colinmurrayart.github.io/gh_pages/contact-me.html</id>
 
-        <updated>2023-10-12T12:13:13+01:00</updated>
+        <updated>2023-10-12T13:29:02+01:00</updated>
             <summary>
                 <![CDATA[
                     Name* E-Mail* Message Your Message
@@ -547,7 +548,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <form id="contact" class="form" role="form" action="mailto:colinmurrayart@gmail.com?subject=Contact Colin" enctype="text/plain" method="post"><label for="">Name*</label> <input class="form-control" name="Sender" required="" type="text" value=""><br><label for="">E-Mail*</label> <input id="email" class="form-control" name="email" required="" type="text" value=""><br><label for="">Message</label> <textarea id="message" class="form-control" name="message" rows="8">Your Message</textarea><br><input class="button" type="submit" value="Submit"> <input class="button" style="margin-left: 3rem;" type="reset" value="Reset"></form>
+                <form id="contact" class="form" role="form" action="mailto:colinmurrayart@gmail.com?subject=Contact Colin" enctype="text/plain" method="post"><label for="">Name*</label> <input class="form-control" name="Sender" required="" type="text" value=""><br><label for="">E-Mail*</label> <input id="email" class="form-control" style="margin-top: 1rem;" name="email" required="" type="text" value=""><br><label for="">Message</label> <textarea id="message" class="form-control" style="margin-top: 1rem;" name="message" rows="8">Your Message</textarea><br><input class="button" style="margin-top: 1rem;" type="submit" value="Submit"> <input class="button" style="margin-left: 3rem;" type="reset" value="Reset"></form>
             ]]>
         </content>
     </entry>
