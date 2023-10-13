@@ -148,14 +148,14 @@
             "url": "https://colinmurrayartist.com/contact-me.html",
             "title": "Contact Me",
             "summary": "Name* E-Mail* Message me...",
-            "content_html": "<form id=\"contact\" class=\"form\" role=\"form\" action=\"mailto:colinmurrayart@gmail.com?subject=Contact Colin\" enctype=\"text/plain\" method=\"post\"><label for=\"\">Name*</label> <input class=\"form-control\" name=\"Sender\" required=\"\" type=\"text\" value=\"\"><br><label for=\"\">E-Mail*</label> <input id=\"email\" class=\"form-control\" style=\"margin-top: 1rem;\" name=\"email\" required=\"\" type=\"text\" value=\"\"><br><textarea id=\"message\" class=\"form-control\" style=\"margin-top: 1rem;\" name=\"message\" required=\"\" rows=\"8\">Message me...</textarea></form>",
+            "content_html": "<form id=\"contact\" class=\"form\" role=\"form\" action=\"mailto:colinmurrayart@gmail.com?subject=Contact Colin\" enctype=\"text/plain\" method=\"post\"><label for=\"\">Name*</label> <input class=\"form-control\" name=\"Sender\" required=\"\" type=\"text\" value=\"\"><br><label for=\"\">E-Mail*</label> <input id=\"email\" class=\"form-control\" style=\"margin-top: 1rem;\" name=\"email\" required=\"\" type=\"text\" value=\"\"><br><textarea id=\"message\" class=\"form-control\" style=\"margin-top: 1rem;\" name=\"message\" required=\"\" rows=\"8\">Message me...</textarea><br><input class=\"button\" style=\"margin-top: 1rem;\" type=\"submit\" value=\"Submit\"></form>",
             "author": {
                 "name": "Colin Murray"
             },
             "tags": [
             ],
             "date_published": "2023-09-29T09:46:00+01:00",
-            "date_modified": "2023-10-12T13:47:06+01:00"
+            "date_modified": "2023-10-13T10:42:08+01:00"
         }
     ]
 }
