@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://colinmurrayartist.com/feed.xml" rel="self" />
     <link href="https://colinmurrayartist.com" />
-    <updated>2023-10-13T10:42:08+01:00</updated>
+    <updated>2023-10-13T11:05:51+01:00</updated>
     <author>
         <name>Colin Murray</name>
     </author>
@@ -528,7 +528,7 @@
         <link href="https://colinmurrayartist.com/contact-me.html"/>
         <id>https://colinmurrayartist.com/contact-me.html</id>
 
-        <updated>2023-10-13T10:42:08+01:00</updated>
+        <updated>2023-10-13T11:05:51+01:00</updated>
             <summary>
                 <![CDATA[
                     Name* E-Mail* Message me...
@@ -536,7 +536,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <form id="contact" class="form" role="form" action="mailto:colinmurrayart@gmail.com?subject=Contact Colin" enctype="text/plain" method="post"><label for="">Name*</label> <input class="form-control" name="Sender" required="" type="text" value=""><br><label for="">E-Mail*</label> <input id="email" class="form-control" style="margin-top: 1rem;" name="email" required="" type="text" value=""><br><textarea id="message" class="form-control" style="margin-top: 1rem;" name="message" required="" rows="8">Message me...</textarea><br><input class="button" style="margin-top: 1rem;" type="submit" value="Submit"></form>
+                <form id="contact" class="form" role="form" action="mailto:colinmurrayart@gmail.com?subject=Contact Colin" enctype="text/plain" method="post"><label for="">Name*</label> <input class="form-control" name="Sender" required="" type="text" value=""><br><label for="">E-Mail*</label> <input id="email" class="form-control" name="email" required="" type="text" value=""><br><textarea id="message" class="form-control" style="margin-top: 1rem;" name="message" required="" rows="8">Message me...</textarea><br><input class="button" style="margin-top: 1rem;" type="submit" value="Submit"></form>
             ]]>
         </content>
     </entry>
