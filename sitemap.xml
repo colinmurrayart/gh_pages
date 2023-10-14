@@ -54,7 +54,7 @@
 </url>
 <url>
 <loc>https://colinmurrayartist.com/city-and-landscape.html</loc>
-<lastmod>2023-10-13T08:44:40+01:00</lastmod>
+<lastmod>2023-10-14T13:18:57+01:00</lastmod>
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/5/three_crowns.jpg</image:loc>
 <image:title><![CDATA[Three Crowns – oil on panel – 101 x 76]]></image:title>
@@ -126,7 +126,7 @@
 </url>
 <url>
 <loc>https://colinmurrayartist.com/fabric-painting.html</loc>
-<lastmod>2023-10-13T08:43:53+01:00</lastmod>
+<lastmod>2023-10-14T13:17:13+01:00</lastmod>
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/7/bob_marley.jpg</image:loc>
 <image:title><![CDATA[Bob Marley]]></image:title>
@@ -144,16 +144,16 @@
 <image:title><![CDATA[Bob Marley - hand painted T shirt - fabric paint - 2018]]></image:title>
 </image:image>
 <image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/7/gallery/Peter-Tosh-for-website-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Pete Tosh - hand painted T shirt - fabric paint - 2018]]></image:title>
+</image:image>
+<image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/7/gallery/Trojan-logo-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Trojan - hand painted T shirt - fabric paint - 2023]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/7/gallery/Island-record-label-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Island - hand painted T shirt - fabric paint - 2023]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://colinmurrayartist.com/media/posts/7/gallery/Peter-Tosh-for-website-2-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Pete Tosh - hand painted T shirt - fabric paint - 2018]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/7/gallery/Emperor-moth-T-shirt-2-2023-thumbnail.jpg</image:loc>
@@ -250,7 +250,7 @@
 </url>
 <url>
 <loc>https://colinmurrayartist.com/miscellaneous.html</loc>
-<lastmod>2023-10-13T08:43:26+01:00</lastmod>
+<lastmod>2023-10-14T13:16:43+01:00</lastmod>
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/8/Remake-Christ-mocked.jpg</image:loc>
 <image:title><![CDATA[Reconstruction – oil on canvas - 78 x 91 cm]]></image:title>
@@ -304,13 +304,17 @@
 <image:title><![CDATA[Dryads - oil on canvas - 46 x 61 cm - 2014]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://colinmurrayartist.com/media/posts/8/gallery/Death-and-the-Maiden-2023-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Death and the Maiden - oil on canvas - 56 61 cm - 2015]]></image:title>
+<image:loc>https://colinmurrayartist.com/media/posts/8/gallery/Death-and-the-Maiden-2023-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[What shall I wear - oil on canvas - 56 61 cm - 2015]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/8/gallery/Lane-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Lana - pencil on tinted paper - 35 x 35 cm]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://colinmurrayartist.com/portraits.html</loc>
-<lastmod>2023-10-12T11:47:33+01:00</lastmod>
+<lastmod>2023-10-14T13:19:56+01:00</lastmod>
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/4/Sue-2023-copy.jpg</image:loc>
 <image:title><![CDATA[Sue – oil on panel – 39 x 42 cm]]></image:title>
@@ -410,7 +414,7 @@
 </url>
 <url>
 <loc>https://colinmurrayartist.com/self-portrait.html</loc>
-<lastmod>2023-10-13T08:42:30+01:00</lastmod>
+<lastmod>2023-10-14T13:16:01+01:00</lastmod>
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/9/sp_holding_lilly.jpg</image:loc>
 <image:title><![CDATA[Self-portrait holding a lily – oil on panel – 41 x 71 cm]]></image:title>
@@ -458,6 +462,10 @@
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/9/gallery/Drawing-SP-wearing-a-cap-3-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Self Portrait - pencil on tinted paper - 23 x 34 cm - 1995]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/9/gallery/SP-wearing-cap-blue-paper-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Self Portrait - pencil on blue paper - 25 x 30 cm]]></image:title>
 </image:image>
 </url>
 </urlset>
