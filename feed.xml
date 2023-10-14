@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://colinmurrayartist.com/feed.xml" rel="self" />
     <link href="https://colinmurrayartist.com" />
-    <updated>2023-10-14T13:19:56+01:00</updated>
+    <updated>2023-10-14T13:32:10+01:00</updated>
     <author>
         <name>Colin Murray</name>
     </author>
@@ -274,7 +274,7 @@
         <id>https://colinmurrayartist.com/portraits.html</id>
         <media:content url="https://colinmurrayartist.com/media/posts/4/Sue-2023-copy.jpg" medium="image" />
 
-        <updated>2023-10-14T13:19:56+01:00</updated>
+        <updated>2023-10-14T13:32:10+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://colinmurrayartist.com/media/posts/4/Sue-2023-copy.jpg" alt="Sue – oil on panel – 39 x 42 cm" />
@@ -323,6 +323,9 @@
 </figure>
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Martha-low-re-2023.jpg" data-size="2071x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Martha-low-re-2023-thumbnail.jpg" alt="Martha – oil on panel – 41 x 51 cm - 1993" width="768" height="949"></a>
 <figcaption>Martha – oil on panel – 41 x 51 cm - 1993</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Ross-2023-copy.jpg" data-size="2147x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Ross-2023-copy-thumbnail.jpg" alt="" width="768" height="916"></a>
+<figcaption>Ross - oil on canvas - 51 x 61 cm</figcaption>
 </figure>
 </div></div>
             ]]>
@@ -400,7 +403,7 @@
         <id>https://colinmurrayartist.com/miscellaneous.html</id>
         <media:content url="https://colinmurrayartist.com/media/posts/8/Remake-Christ-mocked.jpg" medium="image" />
 
-        <updated>2023-10-14T13:16:43+01:00</updated>
+        <updated>2023-10-14T13:31:06+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://colinmurrayartist.com/media/posts/8/Remake-Christ-mocked.jpg" alt="Reconstruction – oil on canvas - 78 x 91 cm" />
