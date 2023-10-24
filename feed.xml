@@ -3,12 +3,33 @@
     <title>Portfolio</title>
     <link href="https://colinmurrayartist.com/feed.xml" rel="self" />
     <link href="https://colinmurrayartist.com" />
-    <updated>2023-10-16T12:05:03+01:00</updated>
+    <updated>2023-10-24T11:02:24+01:00</updated>
     <author>
         <name>Colin Murray</name>
     </author>
     <id>https://colinmurrayartist.com</id>
 
+    <entry>
+        <title>Message Received</title>
+        <author>
+            <name>Colin Murray</name>
+        </author>
+        <link href="https://colinmurrayartist.com/message-received.html"/>
+        <id>https://colinmurrayartist.com/message-received.html</id>
+
+        <updated>2023-10-24T11:02:24+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Thank you for contacting Me. I will respond to your enquiry as soon as possible. Regards, Colin Murray.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Thank you for contacting Me. I will respond to your enquiry as soon as possible.</p>
+<p>Regards, Colin Murray.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Buy my Art</title>
         <author>
@@ -541,26 +562,6 @@
 <figcaption>Tibet National Flag - hand painted T shirt - fabric paint - 2023</figcaption>
 </figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contact Me</title>
-        <author>
-            <name>Colin Murray</name>
-        </author>
-        <link href="https://colinmurrayartist.com/contact-me.html"/>
-        <id>https://colinmurrayartist.com/contact-me.html</id>
-
-        <updated>2023-10-13T11:05:51+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Name* E-Mail* Message me...
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <form id="contact" class="form" role="form" action="mailto:colinmurrayart@gmail.com?subject=Contact Colin" enctype="text/plain" method="post"><label for="">Name*</label> <input class="form-control" name="Sender" required="" type="text" value=""><br><label for="">E-Mail*</label> <input id="email" class="form-control" name="email" required="" type="text" value=""><br><textarea id="message" class="form-control" style="margin-top: 1rem;" name="message" required="" rows="8">Message me...</textarea><br><input class="button" style="margin-top: 1rem;" type="submit" value="Submit"></form>
             ]]>
         </content>
     </entry>

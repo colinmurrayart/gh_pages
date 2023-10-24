@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://colinmurrayartist.com/message-received.html",
+            "url": "https://colinmurrayartist.com/message-received.html",
+            "title": "Message Received",
+            "summary": "Thank you for contacting Me. I will respond to your enquiry as soon as possible. Regards, Colin Murray.",
+            "content_html": "<p>Thank you for contacting Me. I will respond to your enquiry as soon as possible.</p>\n<p>Regards, Colin Murray.</p>",
+            "author": {
+                "name": "Colin Murray"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-24T10:59:47+01:00",
+            "date_modified": "2023-10-24T11:02:24+01:00"
+        },
+        {
             "id": "https://colinmurrayartist.com/buy-my-art.html",
             "url": "https://colinmurrayartist.com/buy-my-art.html",
             "title": "Buy my Art",
@@ -142,20 +156,6 @@
             ],
             "date_published": "2023-10-01T13:31:00+01:00",
             "date_modified": "2023-10-14T13:17:13+01:00"
-        },
-        {
-            "id": "https://colinmurrayartist.com/contact-me.html",
-            "url": "https://colinmurrayartist.com/contact-me.html",
-            "title": "Contact Me",
-            "summary": "Name* E-Mail* Message me...",
-            "content_html": "<form id=\"contact\" class=\"form\" role=\"form\" action=\"mailto:colinmurrayart@gmail.com?subject=Contact Colin\" enctype=\"text/plain\" method=\"post\"><label for=\"\">Name*</label> <input class=\"form-control\" name=\"Sender\" required=\"\" type=\"text\" value=\"\"><br><label for=\"\">E-Mail*</label> <input id=\"email\" class=\"form-control\" name=\"email\" required=\"\" type=\"text\" value=\"\"><br><textarea id=\"message\" class=\"form-control\" style=\"margin-top: 1rem;\" name=\"message\" required=\"\" rows=\"8\">Message me...</textarea><br><input class=\"button\" style=\"margin-top: 1rem;\" type=\"submit\" value=\"Submit\"></form>",
-            "author": {
-                "name": "Colin Murray"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-09-29T09:46:00+01:00",
-            "date_modified": "2023-10-13T11:05:51+01:00"
         }
     ]
 }
