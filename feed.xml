@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://colinmurrayartist.com/feed.xml" rel="self" />
     <link href="https://colinmurrayartist.com" />
-    <updated>2023-11-08T14:23:06+00:00</updated>
+    <updated>2023-11-20T09:14:58+00:00</updated>
     <author>
         <name>Colin Murray</name>
     </author>
@@ -177,7 +177,7 @@
         <id>https://colinmurrayartist.com/city-and-landscape.html</id>
         <media:content url="https://colinmurrayartist.com/media/posts/5/three_crowns.jpg" medium="image" />
 
-        <updated>2023-10-14T13:18:57+01:00</updated>
+        <updated>2023-11-20T09:14:58+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://colinmurrayartist.com/media/posts/5/three_crowns.jpg" alt="Three Crowns – oil on panel – 101 x 76" />
@@ -230,11 +230,14 @@
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Elmstead_Farm_Final-1.jpg" data-size="2098x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Elmstead_Farm_Final-1-thumbnail.jpg" alt="Elmstead Farm – oil on panel – 42 x 51 cm - 1988" width="768" height="937"></a>
 <figcaption>Elmstead Farm – oil on panel – 42 x 51 cm - 1988</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Arlesford-Abbey-copy-2.jpg" data-size="2164x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Arlesford-Abbey-copy-2-thumbnail.jpg" alt="Arlesford Abbey - oil on panel - 60 x 71 cm - 1985" width="768" height="909"></a>
-<figcaption>Arlesford Abbey - oil on panel - 60 x 71 cm - 1985</figcaption>
-</figure>
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Tree-in-Fambridge.jpg" data-size="1868x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Tree-in-Fambridge-thumbnail.jpg" alt="A Young Tree - oil on panel - 44 x 61 cm - 1986" width="768" height="1053"></a>
 <figcaption>A Young Tree - oil on panel - 44 x 61 cm - 1986</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Wivenhoe-1-2023.jpg" data-size="2560x1675"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Wivenhoe-1-2023-thumbnail.jpg" alt="Wivenhoe Nocturne - oil on canvas - 75 x 50 cm" width="768" height="503"></a>
+<figcaption>Wivenhoe Nocturne - oil on canvas - 75 x 50 cm</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/5/gallery/Wivenhoe-2-2023.jpg" data-size="2560x1721"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/5/gallery/Wivenhoe-2-2023-thumbnail.jpg" alt="Wivenhoe Nocturne 2 - oil on canvas - 75 x 50 cm" width="768" height="516"></a>
+<figcaption>Wivenhoe Nocturne 2 - oil on canvas - 75 x 50 cm</figcaption>
 </figure>
 </div></div>
             ]]>
@@ -301,7 +304,7 @@
         <id>https://colinmurrayartist.com/portraits.html</id>
         <media:content url="https://colinmurrayartist.com/media/posts/4/T-J-2023-copy.jpg" medium="image" />
 
-        <updated>2023-10-16T11:30:48+01:00</updated>
+        <updated>2023-11-20T09:10:44+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://colinmurrayartist.com/media/posts/4/T-J-2023-copy.jpg" alt="T J - oil on panel - 51 x 61 cm" />
@@ -348,9 +351,6 @@
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Ben-2023-copy.jpg" data-size="1557x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Ben-2023-copy-thumbnail.jpg" alt="Ben – oil on panel – 81 x 137 cm - 2002" width="768" height="1263"></a>
 <figcaption>Ben – oil on panel – 81 x 137 cm - 2002</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Martha-low-re-2023.jpg" data-size="2071x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Martha-low-re-2023-thumbnail.jpg" alt="Martha – oil on panel – 41 x 51 cm - 1993" width="768" height="949"></a>
-<figcaption>Martha – oil on panel – 41 x 51 cm - 1993</figcaption>
-</figure>
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Ross-2023-copy.jpg" data-size="2147x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Ross-2023-copy-thumbnail.jpg" alt="Ross - oil on canvas - 51 x 61 cm" width="768" height="916"></a>
 <figcaption>Ross - oil on canvas - 51 x 61 cm</figcaption>
 </figure>
@@ -367,7 +367,7 @@
         <id>https://colinmurrayartist.com/self-portrait.html</id>
         <media:content url="https://colinmurrayartist.com/media/posts/9/sp_holding_lilly.jpg" medium="image" />
 
-        <updated>2023-11-08T14:21:25+00:00</updated>
+        <updated>2023-11-20T09:10:11+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://colinmurrayartist.com/media/posts/9/sp_holding_lilly.jpg" alt="Self-portrait holding a lily – oil on panel – 41 x 71 cm" />
@@ -411,12 +411,6 @@
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/Drawing-SPs-on-red-tinted-paper.jpg" data-size="873x1043"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/Drawing-SPs-on-red-tinted-paper-thumbnail.jpg" alt="Self Portraits - coloured pencil on tinted paper - 46 x 55 cm - 1998" width="768" height="918"></a>
 <figcaption>Self Portraits - coloured pencil on tinted paper - 46 x 55 cm - 1998</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/Drawing-SP-wearing-a-cap-2.jpg" data-size="1074x1238"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/Drawing-SP-wearing-a-cap-2-thumbnail.jpg" alt="Self Portrait - chalk on tinted paper - 23 x 34 cm - 1995" width="768" height="885"></a>
-<figcaption>Self Portrait - chalk on tinted paper - 23 x 34 cm - 1995</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/Drawing-SP-wearing-a-cap-3.jpg" data-size="1035x1247"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/Drawing-SP-wearing-a-cap-3-thumbnail.jpg" alt="Self Portrait - pencil on tinted paper - 23 x 34 cm - 1995" width="768" height="925"></a>
-<figcaption>Self Portrait - chalk on tinted paper - 23 x 34 cm - 1995</figcaption>
-</figure>
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/9/gallery/SP-wearing-cap-blue-paper.jpg" data-size="2099x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/9/gallery/SP-wearing-cap-blue-paper-thumbnail.jpg" alt="Self Portrait - pencil on blue paper - 25 x 30 cm" width="768" height="937"></a>
 <figcaption>Self Portrait - pencil on blue paper - 25 x 30 cm</figcaption>
 </figure>
@@ -433,7 +427,7 @@
         <id>https://colinmurrayartist.com/miscellaneous.html</id>
         <media:content url="https://colinmurrayartist.com/media/posts/8/Remake-Christ-mocked.jpg" medium="image" />
 
-        <updated>2023-10-16T12:03:37+01:00</updated>
+        <updated>2023-11-20T09:09:02+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://colinmurrayartist.com/media/posts/8/Remake-Christ-mocked.jpg" alt="Reconstruction – oil on canvas - 78 x 91 cm" />
@@ -474,17 +468,14 @@
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Night.-2023-copy.jpg" data-size="2560x2040"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Night.-2023-copy-thumbnail.jpg" alt="Night (after A Raynaud) – oil on canvas - 51 x 41 cm - 2015" width="768" height="612"></a>
 <figcaption>Night (after A Raynaud) – oil on canvas - 51 x 41 cm - 2015</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Roaring-Lions-2023-copy.jpg" data-size="2046x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Roaring-Lions-2023-copy-thumbnail.jpg" alt="Roaring Lions - oil on canvas - 50 x 60 cm 2014" width="768" height="961"></a>
-<figcaption>Roaring Lions - oil on canvas - 50 x 60 cm 2014</figcaption>
-</figure>
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Sunbathing-2023.jpg" data-size="2560x1481"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Sunbathing-2023-thumbnail.jpg" alt="Sunbathing - framed canvas print - 41 x 24 cm - 2014" width="768" height="444"></a>
 <figcaption>Sunbathing - framed canvas print - 41 x 24 cm - 2014</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Dryads-2023-copy.jpg" data-size="1931x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Dryads-2023-copy-thumbnail.jpg" alt="Dryads - oil on canvas - 46 x 61 cm - 2014" width="768" height="1018"></a>
-<figcaption>Dryads - oil on canvas - 46 x 61 cm - 2014</figcaption>
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Roaring-Lions-2023-copy.jpg" data-size="2046x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Roaring-Lions-2023-copy-thumbnail.jpg" alt="Roaring Lions - oil on canvas - 50 x 60 cm 2014" width="768" height="961"></a>
+<figcaption>Roaring Lions - oil on canvas - 50 x 60 cm 2014</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Death-and-the-Maiden-2023-2.jpg" data-size="2380x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Death-and-the-Maiden-2023-2-thumbnail.jpg" alt="What shall I wear - oil on canvas - 56 61 cm - 2015" width="768" height="826"></a>
-<figcaption>What shall I wear? - oil on canvas - 56 61 cm - 2015</figcaption>
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Arlesford-Abbey-copy.jpg" data-size="2164x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Arlesford-Abbey-copy-thumbnail.jpg" alt="Arlesford Abbey - oil on canvas - 60 x 71 cm" width="768" height="909"></a>
+<figcaption>Arlesford Abbey - oil on canvas - 60 x 71 cm</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Lane.jpg" data-size="2560x2751"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Lane-thumbnail.jpg" alt="Lana - pencil on tinted paper - 35 x 35 cm" width="768" height="825"></a>
 <figcaption>Lana - pencil on tinted paper - 35 x 35 cm</figcaption>
@@ -494,9 +485,6 @@
 </figure>
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Drawing-of-Carrina.jpg" data-size="1920x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Drawing-of-Carrina-thumbnail.jpg" alt="Carinna - pencil on tinted paper - 31 x 38 cm" width="768" height="1024"></a>
 <figcaption>Carinna - pencil on tinted paper - 31 x 38 cm</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Alon.jpg" data-size="1414x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Alon-thumbnail.jpg" alt="Alon - pencil on tinted paper - 23 x 41 cm" width="768" height="1390"></a>
-<figcaption>Alon - pencil on tinted paper - 23 x 41 cm</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/seated-woman-facing-right.jpg" data-size="1852x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/seated-woman-facing-right-thumbnail.jpg" alt="Sue - pencil on tinted paper - 60 x 45 cm" width="768" height="1062"></a>
 <figcaption>Sue - pencil on tinted paper - 60 x 45 cm</figcaption>
