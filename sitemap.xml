@@ -341,6 +341,18 @@
 </image:image>
 </url>
 <url>
+<loc>https://colinmurrayartist.com/new-blog.html</loc>
+<lastmod>2023-11-20T12:40:37+00:00</lastmod>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/16/Alice-2023-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/16//Alice-2023.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://colinmurrayartist.com/page/2/</loc>
 </url>
 <url>
@@ -494,9 +506,5 @@
 <image:loc>https://colinmurrayartist.com/media/posts/9/gallery/SP-wearing-cap-blue-paper-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Self Portrait - pencil on blue paper - 25 x 30 cm]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://colinmurrayartist.com/testing.html</loc>
-<lastmod>2023-11-20T11:59:56+00:00</lastmod>
 </url>
 </urlset>

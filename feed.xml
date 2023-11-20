@@ -3,29 +3,38 @@
     <title>Portfolio</title>
     <link href="https://colinmurrayartist.com/feed.xml" rel="self" />
     <link href="https://colinmurrayartist.com" />
-    <updated>2023-11-20T11:59:56+00:00</updated>
+    <updated>2023-11-20T12:40:37+00:00</updated>
     <author>
         <name>Colin Murray</name>
     </author>
     <id>https://colinmurrayartist.com</id>
 
     <entry>
-        <title>testing</title>
+        <title>new blog</title>
         <author>
             <name>Colin Murray</name>
         </author>
-        <link href="https://colinmurrayartist.com/testing.html"/>
-        <id>https://colinmurrayartist.com/testing.html</id>
+        <link href="https://colinmurrayartist.com/new-blog.html"/>
+        <id>https://colinmurrayartist.com/new-blog.html</id>
+        <media:content url="https://colinmurrayartist.com/media/posts/16/Alice-2023-2.jpg" medium="image" />
+            <category term="Blog"/>
 
-        <updated>2023-11-20T11:59:56+00:00</updated>
+        <updated>2023-11-20T12:40:37+00:00</updated>
             <summary>
                 <![CDATA[
-                    testing
+                        <img src="https://colinmurrayartist.com/media/posts/16/Alice-2023-2.jpg" alt="" />
+                    cotent here. more text here.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>testing</p>
+                    <p><img src="https://colinmurrayartist.com/media/posts/16/Alice-2023-2.jpg" class="type:primaryImage" alt="" /></p>
+                <p><strong>cotent</strong> <em>here</em>.</p>
+<figure class="post__image"><img decoding="async" loading="lazy"  src="https://colinmurrayartist.com/media/posts/16//Alice-2023.jpg" alt="" width="2222" height="2560" sizes="(min-width: 37.5em) 1600px, 90vw" srcset="https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-xs.jpg 384w ,https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-sm.jpg 600w ,https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-md.jpg 768w ,https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-lg.jpg 1200w ,https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-xl.jpg 1600w"></figure>
+<p>more text here.</p>
+<p> </p>
+<p> </p>
+<p> </p>
             ]]>
         </content>
     </entry>

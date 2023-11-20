@@ -10,18 +10,20 @@
     },
     "items": [
         {
-            "id": "https://colinmurrayartist.com/testing.html",
-            "url": "https://colinmurrayartist.com/testing.html",
-            "title": "testing",
-            "summary": "testing",
-            "content_html": "<p>testing</p>",
+            "id": "https://colinmurrayartist.com/new-blog.html",
+            "url": "https://colinmurrayartist.com/new-blog.html",
+            "title": "new blog",
+            "summary": "cotent here. more text here.",
+            "content_html": "<p><strong>cotent</strong> <em>here</em>.</p>\n<figure class=\"post__image\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://colinmurrayartist.com/media/posts/16//Alice-2023.jpg\" alt=\"\" width=\"2222\" height=\"2560\" sizes=\"(min-width: 37.5em) 1600px, 90vw\" srcset=\"https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-xs.jpg 384w ,https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-sm.jpg 600w ,https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-md.jpg 768w ,https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-lg.jpg 1200w ,https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-xl.jpg 1600w\"></figure>\n<p>more text here.</p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://colinmurrayartist.com/media/posts/16/Alice-2023-2.jpg",
             "author": {
                 "name": "Colin Murray"
             },
             "tags": [
+                   "Blog"
             ],
-            "date_published": "2023-11-20T11:59:53+00:00",
-            "date_modified": "2023-11-20T11:59:56+00:00"
+            "date_published": "2023-11-20T12:36:08+00:00",
+            "date_modified": "2023-11-20T12:40:37+00:00"
         },
         {
             "id": "https://colinmurrayartist.com/message-received.html",
