@@ -3,41 +3,12 @@
     <title>Portfolio</title>
     <link href="https://colinmurrayartist.com/feed.xml" rel="self" />
     <link href="https://colinmurrayartist.com" />
-    <updated>2023-11-20T12:40:37+00:00</updated>
+    <updated>2023-11-20T09:14:58+00:00</updated>
     <author>
         <name>Colin Murray</name>
     </author>
     <id>https://colinmurrayartist.com</id>
 
-    <entry>
-        <title>new blog</title>
-        <author>
-            <name>Colin Murray</name>
-        </author>
-        <link href="https://colinmurrayartist.com/new-blog.html"/>
-        <id>https://colinmurrayartist.com/new-blog.html</id>
-        <media:content url="https://colinmurrayartist.com/media/posts/16/Alice-2023-2.jpg" medium="image" />
-            <category term="Blog"/>
-
-        <updated>2023-11-20T12:40:37+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://colinmurrayartist.com/media/posts/16/Alice-2023-2.jpg" alt="" />
-                    cotent here. more text here.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://colinmurrayartist.com/media/posts/16/Alice-2023-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p><strong>cotent</strong> <em>here</em>.</p>
-<figure class="post__image"><img decoding="async" loading="lazy"  src="https://colinmurrayartist.com/media/posts/16//Alice-2023.jpg" alt="" width="2222" height="2560" sizes="(min-width: 37.5em) 1600px, 90vw" srcset="https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-xs.jpg 384w ,https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-sm.jpg 600w ,https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-md.jpg 768w ,https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-lg.jpg 1200w ,https://colinmurrayartist.com/media/posts/16//responsive/Alice-2023-xl.jpg 1600w"></figure>
-<p>more text here.</p>
-<p> </p>
-<p> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Message Received</title>
         <author>
@@ -534,6 +505,31 @@
 <figcaption>Tibet National Flag - hand painted T shirt - fabric paint - 2023</figcaption>
 </figure>
 </div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Contact Me</title>
+        <author>
+            <name>Colin Murray</name>
+        </author>
+        <link href="https://colinmurrayartist.com/contact-me.html"/>
+        <id>https://colinmurrayartist.com/contact-me.html</id>
+
+        <updated>2023-10-24T11:39:37+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Submit
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <form id="contactus" action="https://formsubmit.co/a91d2434a14246cb03b81ff944b5f419" method="POST"><input name="_template" type="hidden" value="box"> <input name="_captcha" type="hidden" value="false"> <input name="_next" type="hidden" value="https://colinmurrayartist.com/message-received"> <input name="_subject" type="hidden" value="New Contact Form Message!"> <input style="display: none;" name="_honey" type="text">
+<p><input style="width: 100%;" name="Name" required="" type="text" placeholder="Name"></p>
+<p><input style="width: 100%;" name="Email" required="" type="email" placeholder="Email Address"></p>
+<p><textarea style="width: 100%;" name="Message" required="" rows="10" placeholder="Message..."></textarea></p>
+<p><button type="submit">Submit</button></p>
+</form>
             ]]>
         </content>
     </entry>
