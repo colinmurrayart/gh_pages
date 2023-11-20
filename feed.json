@@ -38,21 +38,6 @@
             "date_modified": "2023-11-08T14:23:06+00:00"
         },
         {
-            "id": "https://colinmurrayartist.com/recent.html",
-            "url": "https://colinmurrayartist.com/recent.html",
-            "title": "Recent",
-            "summary": "The pictures in this gallery are all items that I have worked on over the last two years. The paintings&hellip;",
-            "content_html": "<blockquote>\n<p>The pictures in this gallery are all items that I have worked on over the last two years. The paintings featured here have been photographed by me and are not of the best quality, I will have better images soon.</p>\n</blockquote>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://colinmurrayartist.com/media/posts/2/gallery/Alice-2023.jpg\" data-size=\"2222x2560\"><img decoding=\"async\" loading=\"lazy\" src=\"https://colinmurrayartist.com/media/posts/2/gallery/Alice-2023-thumbnail.jpg\" alt=\"Alice and the Caterpillar – oil on canvas – 76 x 87 cm - 2023\" width=\"768\" height=\"885\"></a>\n<figcaption>Alice and the Caterpillar – oil on canvas – 76 x 87 cm - 2023</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://colinmurrayartist.com/media/posts/2/gallery/Memento-Mori-low-res-2023.jpg\" data-size=\"2560x1900\"><img decoding=\"async\" loading=\"lazy\" src=\"https://colinmurrayartist.com/media/posts/2/gallery/Memento-Mori-low-res-2023-thumbnail.jpg\" alt=\"Memento Mori – oil on canvas – 102 x 76 cm - 2023\" width=\"768\" height=\"570\"></a>\n<figcaption>Memento Mori – oil on canvas – 102 x 76 cm - 2023</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://colinmurrayartist.com/media/posts/2/gallery/Angel.jpg\" data-size=\"1708x2560\"><img decoding=\"async\" loading=\"lazy\" src=\"https://colinmurrayartist.com/media/posts/2/gallery/Angel-thumbnail.jpg\" alt=\"Angel - oil on canvas - 50 x 75 cm - 2023\" width=\"768\" height=\"1151\"></a>\n<figcaption>Angel - oil on canvas - 50 x 75 cm - 2023</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://colinmurrayartist.com/media/posts/2/gallery/Triumph-of-Folly-2023.jpg\" data-size=\"2560x1920\"><img decoding=\"async\" loading=\"lazy\" src=\"https://colinmurrayartist.com/media/posts/2/gallery/Triumph-of-Folly-2023-thumbnail.jpg\" alt=\"The Triumph of Folly (after Paul Rumsey) – oil on canvas – 102 x 76 cm - 2022\" width=\"768\" height=\"576\"></a>\n<figcaption>The Triumph of Folly (after Paul Rumsey) – oil on canvas – 102 x 76 cm - 2022</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://colinmurrayartist.com/media/posts/2/gallery/Samel-Coleridge-Taylor-2023.jpg\" data-size=\"2340x2560\"><img decoding=\"async\" loading=\"lazy\" src=\"https://colinmurrayartist.com/media/posts/2/gallery/Samel-Coleridge-Taylor-2023-thumbnail.jpg\" alt=\"Samuel Coleridge Taylor – oil on canvas – 55 x 60 cm - 2023\" width=\"768\" height=\"840\"></a>\n<figcaption>Samuel Coleridge Taylor – oil on canvas – 55 x 60 cm - 2023</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://colinmurrayartist.com/media/posts/2/gallery/HitlerBuddha-2023-copy.jpg\" data-size=\"2047x2560\"><img decoding=\"async\" loading=\"lazy\" src=\"https://colinmurrayartist.com/media/posts/2/gallery/HitlerBuddha-2023-copy-thumbnail.jpg\" alt=\"Hitler/Buddha - oil on canvas - 34 x 45 cm - 2021\" width=\"768\" height=\"960\"></a>\n<figcaption>Hitler/Buddha - oil on canvas - 34 x 45 cm - 2021</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://colinmurrayartist.com/media/posts/2/gallery/Running.jpg\" data-size=\"2560x2128\"><img decoding=\"async\" loading=\"lazy\" src=\"https://colinmurrayartist.com/media/posts/2/gallery/Running-thumbnail.jpg\" alt=\"Running Free - oil on canvas - 61 x51 cm - 2022\" width=\"768\" height=\"638\"></a>\n<figcaption>Running Free - oil on canvas - 61 x51 cm - 2022</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://colinmurrayartist.com/media/posts/2/gallery/Wivenhoe-1-2023.jpg\" data-size=\"2560x1675\"><img decoding=\"async\" loading=\"lazy\" src=\"https://colinmurrayartist.com/media/posts/2/gallery/Wivenhoe-1-2023-thumbnail.jpg\" alt=\"Wivenhoe nocturne - oil on canvas - 76 x 50 cm - 2021\" width=\"768\" height=\"503\"></a>\n<figcaption>Wivenhoe nocturne - oil on canvas - 76 x 50 cm - 2021</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://colinmurrayartist.com/media/posts/2/gallery/Wivenhoe-2-2023.jpg\" data-size=\"2560x1721\"><img decoding=\"async\" loading=\"lazy\" src=\"https://colinmurrayartist.com/media/posts/2/gallery/Wivenhoe-2-2023-thumbnail.jpg\" alt=\"Wivenhoe nocturne 2 - oil on canvas - 76 x 50 cm - 2021\" width=\"768\" height=\"516\"></a>\n<figcaption>Wivenhoe nocturne 2 - oil on canvas - 76 x 50 cm - 2021</figcaption>\n</figure>\n</div></div>",
-            "image": "https://colinmurrayartist.com/media/posts/2/alice.jpg",
-            "author": {
-                "name": "Colin Murray"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-10-12T11:26:00+01:00",
-            "date_modified": "2023-10-12T11:36:34+01:00"
-        },
-        {
             "id": "https://colinmurrayartist.com/fantasy.html",
             "url": "https://colinmurrayartist.com/fantasy.html",
             "title": "Fantasy",
@@ -156,6 +141,20 @@
             ],
             "date_published": "2023-10-01T13:31:00+01:00",
             "date_modified": "2023-10-14T13:17:13+01:00"
+        },
+        {
+            "id": "https://colinmurrayartist.com/contact-me.html",
+            "url": "https://colinmurrayartist.com/contact-me.html",
+            "title": "Contact Me",
+            "summary": "Submit",
+            "content_html": "<form id=\"contactus\" action=\"https://formsubmit.co/a91d2434a14246cb03b81ff944b5f419\" method=\"POST\"><input name=\"_template\" type=\"hidden\" value=\"box\"> <input name=\"_captcha\" type=\"hidden\" value=\"false\"> <input name=\"_next\" type=\"hidden\" value=\"https://colinmurrayartist.com/message-received\"> <input name=\"_subject\" type=\"hidden\" value=\"New Contact Form Message!\"> <input style=\"display: none;\" name=\"_honey\" type=\"text\">\n<p><input style=\"width: 100%;\" name=\"Name\" required=\"\" type=\"text\" placeholder=\"Name\"></p>\n<p><input style=\"width: 100%;\" name=\"Email\" required=\"\" type=\"email\" placeholder=\"Email Address\"></p>\n<p><textarea style=\"width: 100%;\" name=\"Message\" required=\"\" rows=\"10\" placeholder=\"Message...\"></textarea></p>\n<p><button type=\"submit\">Submit</button></p>\n</form>",
+            "author": {
+                "name": "Colin Murray"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-29T09:46:00+01:00",
+            "date_modified": "2023-10-24T11:39:37+01:00"
         }
     ]
 }
