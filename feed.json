@@ -146,15 +146,13 @@
             "id": "https://colinmurrayartist.com/contact-me.html",
             "url": "https://colinmurrayartist.com/contact-me.html",
             "title": "Contact Me",
-            "summary": "Submit",
-            "content_html": "<form id=\"contactus\" action=\"https://formsubmit.co/a91d2434a14246cb03b81ff944b5f419\" method=\"POST\"><input name=\"_template\" type=\"hidden\" value=\"box\"> <input name=\"_captcha\" type=\"hidden\" value=\"false\"> <input name=\"_next\" type=\"hidden\" value=\"https://colinmurrayartist.com/message-received\"> <input name=\"_subject\" type=\"hidden\" value=\"New Contact Form Message!\"> <input style=\"display: none;\" name=\"_honey\" type=\"text\">\n<p><input style=\"width: 100%;\" name=\"Name\" required=\"\" type=\"text\" placeholder=\"Name\"></p>\n<p><input style=\"width: 100%;\" name=\"Email\" required=\"\" type=\"email\" placeholder=\"Email Address\"></p>\n<p><textarea style=\"width: 100%;\" name=\"Message\" required=\"\" rows=\"10\" placeholder=\"Message...\"></textarea></p>\n<p><button type=\"submit\">Submit</button></p>\n</form>",
             "author": {
                 "name": "Colin Murray"
             },
             "tags": [
             ],
             "date_published": "2023-09-29T09:46:00+01:00",
-            "date_modified": "2023-10-24T11:39:37+01:00"
+            "date_modified": "2024-02-23T10:24:11+00:00"
         }
     ]
 }
