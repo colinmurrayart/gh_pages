@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://colinmurrayartist.com/feed.xml" rel="self" />
     <link href="https://colinmurrayartist.com" />
-    <updated>2024-02-23T10:24:11+00:00</updated>
+    <updated>2024-02-23T11:23:50+00:00</updated>
     <author>
         <name>Colin Murray</name>
     </author>
@@ -554,8 +554,21 @@
         <link href="https://colinmurrayartist.com/contact-me.html"/>
         <id>https://colinmurrayartist.com/contact-me.html</id>
 
-        <updated>2024-02-23T10:24:11+00:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2024-02-23T11:23:50+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Submit
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <form id="contactus" action="https://formsubmit.co/a91d2434a14246cb03b81ff944b5f419" method="POST"><input name="_template" type="hidden" value="box"> <input name="_captcha" type="hidden" value="true"> <input name="_next" type="hidden" value="https://colinmurrayartist.com/message-received"> <input name="_subject" type="hidden" value="New Contact Form Message!"> <input style="display: none;" name="_honey" type="text">
+<p><input style="width: 100%;" name="Name" required="" type="text" placeholder="Name"></p>
+<p><input style="width: 100%;" name="Email" required="" type="email" placeholder="Email Address"></p>
+<p><textarea style="width: 100%;" name="Message" required="" rows="10" placeholder="Message..."></textarea></p>
+<p><button type="submit">Submit</button></p>
+</form>
+            ]]>
+        </content>
     </entry>
 </feed>
