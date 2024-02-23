@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://colinmurrayartist.com/feed.xml" rel="self" />
     <link href="https://colinmurrayartist.com" />
-    <updated>2024-02-23T12:28:35+00:00</updated>
+    <updated>2024-02-23T12:33:12+00:00</updated>
     <author>
         <name>Colin Murray</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://colinmurrayartist.com/about-me.html"/>
         <id>https://colinmurrayartist.com/about-me.html</id>
+        <media:content url="https://colinmurrayartist.com/media/posts/17/Panic-Street-2.jpg" medium="image" />
             <category term="Blog"/>
 
-        <updated>2024-02-23T12:28:35+00:00</updated>
+        <updated>2024-02-23T12:33:12+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://colinmurrayartist.com/media/posts/17/Panic-Street-2.jpg" alt="" />
                     I remember the old adage, ‘a picture paints a thousand words’, but not any more, now an artist needs a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://colinmurrayartist.com/media/posts/17/Panic-Street-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="p1">I remember the old adage, ‘a picture paints a thousand words’, but not any more, now an artist needs a thousand words to explain why he painted a picture. So in this and succeeding blogs I’ll be talking about some of my paintings.</p>
 <p class="p1">I was born in 1956 and I began painting in oils when I was twelve years old. When I was seventeen I attended a two-year Foundation Course and I have a Ba Honours degree in Fine Art. I also have a City and Guilds Teaching Certificate and I have taught in schools and also given private tuition. I teach basic drawing skills, especially from life, and painting and drawing technique as these are things that can be taught. In future blogs I’ll be looking at the ways of whys of painting technique.</p>
 <p class="p1">I have had many exhibitions over the years and I’ve been in group shows however I’m not going to bore you with the details in this blog.</p>
