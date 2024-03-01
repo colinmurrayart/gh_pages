@@ -3,12 +3,45 @@
     <title>Portfolio</title>
     <link href="https://colinmurrayartist.com/feed.xml" rel="self" />
     <link href="https://colinmurrayartist.com" />
-    <updated>2024-02-23T11:23:50+00:00</updated>
+    <updated>2024-03-01T10:44:50+00:00</updated>
     <author>
         <name>Colin Murray</name>
     </author>
     <id>https://colinmurrayartist.com</id>
 
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Colin Murray</name>
+        </author>
+        <link href="https://colinmurrayartist.com/about-me-2.html"/>
+        <id>https://colinmurrayartist.com/about-me-2.html</id>
+            <category term="Blog"/>
+
+        <updated>2024-03-01T10:44:50+00:00</updated>
+            <summary>
+                <![CDATA[
+                    I remember the old adage, ‘a picture paints a thousand words’, but not any more, now an artist needs a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="p1">I remember the old adage, ‘a picture paints a thousand words’, but not any more, now an artist needs a thousand words to explain why he painted a picture. So in this and succeeding blogs I’ll be talking about some of my paintings.</p>
+<p class="p1">I was born in 1956 and I began painting in oils when I was twelve years old. When I was seventeen I attended a two-year Foundation Course and I have a Ba Honours degree in Fine Art. I also have a City and Guilds Teaching Certificate and I have taught in schools and also given private tuition. I teach basic drawing skills, especially from life, and painting and drawing technique as these are things that can be taught. In future blogs I’ll be looking at the ways of whys of painting technique.</p>
+<p class="p1">I have had many exhibitions over the years and I’ve been in group shows however I’m not going to bore you with the details in this blog.</p>
+<p class="p1">My work is figurative and I paint various kinds of pictures sometimes from life and sometimes I use photographic references. Regarding the use of photographs thanks to home printing it is much easier to produce the source material I need for my pictures. I cannot conjure a complex realistic scene purely from my imagination so I study various images and adapt them to my purpose a good example of this is my recent picture ‘Memento Mori’.</p>
+<p class="p1">As to where I stand in terms of contemporary art I’ve realised that I have more in common with Outsider Art than with any other trend, when I consider that I’m largely self-taught, most of my work is obsessively detailed and I have always operated outside of the mainstream. However my work has proved popular among a small group of business people and private collectors.</p>
+<p class="p1">When I was going through some of the many paintings still in my possession I found an early self portrait painted in February in 1977. Also I discovered an image of one of my psychedelic pictures, between 1977 and 1980 I painted many such pictures but I now have only a few snapshots of most of this work.</p>
+<figure class="post__image" ><figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://colinmurrayartist.com/media/posts/18/Self-Portrait-Feb-1977.jpg" alt="Self Portrait" width="2297" height="2560" sizes="(min-width: 37.5em) 1600px, 90vw" srcset="https://colinmurrayartist.com/media/posts/18/responsive/Self-Portrait-Feb-1977-xs.jpg 384w ,https://colinmurrayartist.com/media/posts/18/responsive/Self-Portrait-Feb-1977-sm.jpg 600w ,https://colinmurrayartist.com/media/posts/18/responsive/Self-Portrait-Feb-1977-md.jpg 768w ,https://colinmurrayartist.com/media/posts/18/responsive/Self-Portrait-Feb-1977-lg.jpg 1200w ,https://colinmurrayartist.com/media/posts/18/responsive/Self-Portrait-Feb-1977-xl.jpg 1600w"></figure>
+<figcaption >Self Portrait - oil on canvas - 41 x 46 cm - 1977</figcaption>
+</figure>
+<figure class="post__image" ><figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://colinmurrayartist.com/media/posts/18/Panic-Street.jpg" alt="Panic Street" width="2560" height="2299" sizes="(min-width: 37.5em) 1600px, 90vw" srcset="https://colinmurrayartist.com/media/posts/18/responsive/Panic-Street-xs.jpg 384w ,https://colinmurrayartist.com/media/posts/18/responsive/Panic-Street-sm.jpg 600w ,https://colinmurrayartist.com/media/posts/18/responsive/Panic-Street-md.jpg 768w ,https://colinmurrayartist.com/media/posts/18/responsive/Panic-Street-lg.jpg 1200w ,https://colinmurrayartist.com/media/posts/18/responsive/Panic-Street-xl.jpg 1600w"></figure>
+<figcaption >Panic Street - oil on panel - 35 x 38 cm - 1977</figcaption>
+</figure>
+<p class="p1">But why paint? Being an artist is not a career path for most people. And the UK is not really an artist friendly environment. I’ve been painting or drawing pictures since I was about 7 or 8 years old. Why? The reason I paint is because I have too have some way of escaping reality and entering into the world of my own imagination. In a way it helps me to justify my existence as a human being and most importantly the pictures I create are unique, only I could have made them. Whether or not the world needs my art is a question that is still waiting to be answered.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Message Received</title>
         <author>
@@ -402,18 +435,18 @@
         <id>https://colinmurrayartist.com/miscellaneous.html</id>
         <media:content url="https://colinmurrayartist.com/media/posts/8/Female-nude-drawing-2023-copy.jpg" medium="image" />
 
-        <updated>2024-02-23T08:11:08+00:00</updated>
+        <updated>2024-03-01T10:42:36+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://colinmurrayartist.com/media/posts/8/Female-nude-drawing-2023-copy.jpg" alt="Life Drawing - 40 x 60 cm - 1994 " />
-                    This gallery contains a variety of pictures both old and new, including a few of my drawings and all of&hellip;
+                    This gallery contains a variety of pictures both old and new, including a few of my drawings and some canvas&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://colinmurrayartist.com/media/posts/8/Female-nude-drawing-2023-copy.jpg" class="type:primaryImage" alt="Life Drawing - 40 x 60 cm - 1994 " /></p>
                 <blockquote>
-<p>This gallery contains a variety of pictures both old and new, including a few of my drawings and all of these works are for sale at bargain basement prices. </p>
+<p>This gallery contains a variety of pictures both old and new, including a few of my drawings and some canvas prints. All of these works are for sale at bargain  prices with no single item exceeding 500 pounds. </p>
 </blockquote>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Still-life-with-Guinness-2023-copy.jpg" data-size="2560x1784"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Still-life-with-Guinness-2023-copy-thumbnail.jpg" alt="Still life with Guinness – stretcher-framed canvas print – 71 x 50 cm - 2005" width="768" height="535"></a>
@@ -543,31 +576,6 @@
 <figcaption>Tibet National Flag - hand painted T shirt - fabric paint - 2023</figcaption>
 </figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contact Me</title>
-        <author>
-            <name>Colin Murray</name>
-        </author>
-        <link href="https://colinmurrayartist.com/contact-me.html"/>
-        <id>https://colinmurrayartist.com/contact-me.html</id>
-
-        <updated>2024-02-23T11:23:50+00:00</updated>
-            <summary>
-                <![CDATA[
-                    Submit
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <form id="contactus" action="https://formsubmit.co/a91d2434a14246cb03b81ff944b5f419" method="POST"><input name="_template" type="hidden" value="box"> <input name="_captcha" type="hidden" value="true"> <input name="_next" type="hidden" value="https://colinmurrayartist.com/message-received"> <input name="_subject" type="hidden" value="New Contact Form Message!"> <input style="display: none;" name="_honey" type="text">
-<p><input style="width: 100%;" name="Name" required="" type="text" placeholder="Name"></p>
-<p><input style="width: 100%;" name="Email" required="" type="email" placeholder="Email Address"></p>
-<p><textarea style="width: 100%;" name="Message" required="" rows="10" placeholder="Message..."></textarea></p>
-<p><button type="submit">Submit</button></p>
-</form>
             ]]>
         </content>
     </entry>
