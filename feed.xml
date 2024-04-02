@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://colinmurrayartist.com/feed.xml" rel="self" />
     <link href="https://colinmurrayartist.com" />
-    <updated>2024-04-02T14:20:24+01:00</updated>
+    <updated>2024-04-02T14:22:48+01:00</updated>
     <author>
         <name>Colin Murray</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://colinmurrayartist.com/the-green-man.html"/>
         <id>https://colinmurrayartist.com/the-green-man.html</id>
+        <media:content url="https://colinmurrayartist.com/media/posts/19/Green-Man-2023-copy.jpg" medium="image" />
             <category term="Blog"/>
 
         <updated>2024-03-08T14:50:55+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://colinmurrayartist.com/media/posts/19/Green-Man-2023-copy.jpg" alt="" />
                     The Green Man - oil on canvas - 50 x 60 cm - 2018 The Green Man represents the spirit&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://colinmurrayartist.com/media/posts/19/Green-Man-2023-copy.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image" ><figure class="post__image post__image--center"><img decoding="async" loading="lazy"  src="https://colinmurrayartist.com/media/posts/19/Green-Man-2023-copy-2.jpg" alt="" width="2560" height="3146" sizes="(min-width: 37.5em) 1600px, 90vw" srcset="https://colinmurrayartist.com/media/posts/19/responsive/Green-Man-2023-copy-2-xs.jpg 384w ,https://colinmurrayartist.com/media/posts/19/responsive/Green-Man-2023-copy-2-sm.jpg 600w ,https://colinmurrayartist.com/media/posts/19/responsive/Green-Man-2023-copy-2-md.jpg 768w ,https://colinmurrayartist.com/media/posts/19/responsive/Green-Man-2023-copy-2-lg.jpg 1200w ,https://colinmurrayartist.com/media/posts/19/responsive/Green-Man-2023-copy-2-xl.jpg 1600w"></figure>
 <figcaption >The Green Man - oil on canvas - 50 x 60 cm - 2018</figcaption>
 </figure>
