@@ -238,7 +238,7 @@
 </url>
 <url>
 <loc>https://colinmurrayartist.com/fantasy.html</loc>
-<lastmod>2024-05-02T16:40:13+01:00</lastmod>
+<lastmod>2024-08-12T11:09:49+01:00</lastmod>
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/3/Alice-2023.jpg</image:loc>
 <image:title><![CDATA[Alice - oil on canvas - 76 x 87 cm]]></image:title>
@@ -318,6 +318,10 @@
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/3/gallery/Remake-Christ-mocked-thumbnail.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/3/gallery/HitlerBuddha-2023-copy-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Hitler/Buddha - oil on canvas - 34 x 45 cm - 2022]]></image:title>
 </image:image>
 </url>
 <url>
@@ -422,7 +426,7 @@
 </url>
 <url>
 <loc>https://colinmurrayartist.com/portraits.html</loc>
-<lastmod>2024-02-20T11:15:48+00:00</lastmod>
+<lastmod>2024-08-12T11:08:54+01:00</lastmod>
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/4/T-J-2023-copy.jpg</image:loc>
 <image:title><![CDATA[T J - oil on panel - 51 x 61 cm]]></image:title>
@@ -470,10 +474,6 @@
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/4/gallery/Cynthia-2023-copy-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Cynthia – oil on canvas – 35 x 46 cm - 2014]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://colinmurrayartist.com/media/posts/4/gallery/HitlerBuddha-2023-copy-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Hitler/Buddha - oil on canvas - 34 x 45 cm - 2022]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/4/gallery/Ben-2023-copy-thumbnail.jpg</image:loc>
@@ -581,8 +581,52 @@
 </image:image>
 </url>
 <url>
+<loc>https://colinmurrayartist.com/the-art-collector.html</loc>
+<lastmod>2024-08-12T11:14:39+01:00</lastmod>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/20/The-Art-Collector-2-2023-copy.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/20/Art-Collector-numbers.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/20/gallery/Roy-5-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/20/gallery/Roy-4-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/20/gallery/Roy-1-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/20/gallery/Roy-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/20/gallery/Roy-3-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/20/gallery/Roy-6-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/20/gallery/Roy-7-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://colinmurrayartist.com/media/posts/20/gallery/Roy-8-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://colinmurrayartist.com/the-green-man.html</loc>
-<lastmod>2024-04-02T14:27:29+01:00</lastmod>
+<lastmod>2024-08-12T11:14:14+01:00</lastmod>
 <image:image>
 <image:loc>https://colinmurrayartist.com/media/posts/19/Green-Man-2023-copy.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
