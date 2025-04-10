@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://colinmurrayartist.com/feed.xml" rel="self" />
     <link href="https://colinmurrayartist.com" />
-    <updated>2025-04-10T13:34:41+01:00</updated>
+    <updated>2025-04-10T13:39:25+01:00</updated>
     <author>
         <name>Colin Murray</name>
     </author>
@@ -252,18 +252,18 @@
         </author>
         <link href="https://colinmurrayartist.com/fantasy.html"/>
         <id>https://colinmurrayartist.com/fantasy.html</id>
-        <media:content url="https://colinmurrayartist.com/media/posts/3/Alice-2023.jpg" medium="image" />
+        <media:content url="https://colinmurrayartist.com/media/posts/3/Orpheus-detail.jpg" medium="image" />
 
         <updated>2023-10-11T11:32:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://colinmurrayartist.com/media/posts/3/Alice-2023.jpg" alt="Alice - oil on canvas - 76 x 87 cm" />
+                        <img src="https://colinmurrayartist.com/media/posts/3/Orpheus-detail.jpg" alt="Orpheus playing to the Animals - detail" />
                     This gallery features various pictures with elements of the fantastic, plus a couple of still life paintings. Alice meets the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://colinmurrayartist.com/media/posts/3/Alice-2023.jpg" class="type:primaryImage" alt="Alice - oil on canvas - 76 x 87 cm" /></p>
+                    <p><img src="https://colinmurrayartist.com/media/posts/3/Orpheus-detail.jpg" class="type:primaryImage" alt="Orpheus playing to the Animals - detail" /></p>
                 <blockquote>
 <p>This gallery features various pictures with elements of the fantastic, plus a couple of still life paintings.</p>
 </blockquote>
@@ -408,21 +408,19 @@
         </author>
         <link href="https://colinmurrayartist.com/abney-park.html"/>
         <id>https://colinmurrayartist.com/abney-park.html</id>
-        <media:content url="https://colinmurrayartist.com/media/posts/6/rising_mist-2.jpg" medium="image" />
+        <media:content url="https://colinmurrayartist.com/media/posts/6/Memento-Mori-detail.jpg" medium="image" />
 
         <updated>2023-10-09T13:26:00+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://colinmurrayartist.com/media/posts/6/rising_mist-2.jpg" alt="Rising Mist – oil on canvas – 101 x 76 cm" />
+                        <img src="https://colinmurrayartist.com/media/posts/6/Memento-Mori-detail.jpg" alt="Memento Mori - detail" />
                     I have always been fascinated by ruins and overgrown churchyards, I don't know why. I live near Abney Park in&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://colinmurrayartist.com/media/posts/6/rising_mist-2.jpg" class="type:primaryImage" alt="Rising Mist – oil on canvas – 101 x 76 cm" /></p>
-                <blockquote>
-<p>I have always been fascinated by ruins and overgrown churchyards, I don't know why. I live near Abney Park in Stoke Newington, a rambling Victorian cemetery, and over the years I have painted a number of pictures inspired by the various statues and the atmosphere of the place.</p>
-</blockquote>
+                    <p><img src="https://colinmurrayartist.com/media/posts/6/Memento-Mori-detail.jpg" class="type:primaryImage" alt="Memento Mori - detail" /></p>
+                <p>I have always been fascinated by ruins and overgrown churchyards, I don't know why. I live near Abney Park in Stoke Newington, a rambling Victorian cemetery, and over the years I have painted a number of pictures inspired by the various statues and the atmosphere of the place.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/6/gallery/Memento-Mori-lighter.jpg" data-size="2560x1928"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/6/gallery/Memento-Mori-lighter-thumbnail.jpg" alt="Memento Mori - oil on canvas - 102 x 76 cm - 2023" width="768" height="578"></a>
 <figcaption>Memento Mori - oil on canvas - 102 x 76 cm - 2023</figcaption>
