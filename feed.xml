@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://colinmurrayartist.com/feed.xml" rel="self" />
     <link href="https://colinmurrayartist.com" />
-    <updated>2025-12-12T11:28:59+00:00</updated>
+    <updated>2026-03-06T11:42:22+00:00</updated>
     <author>
         <name>Colin Murray</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://colinmurrayartist.com/media/posts/3/Orpheus-detail.jpg" medium="image" />
 
         <updated>2023-10-11T11:32:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://colinmurrayartist.com/media/posts/3/Orpheus-detail.jpg" alt="Orpheus playing to the Animals - detail" />
                     This gallery features various pictures with elements of the fantastic, plus a couple of still life paintings. Alice meets the&hellip;
@@ -31,7 +31,7 @@
                 <blockquote>
 <p>This gallery features various pictures with elements of the fantastic, plus a couple of still life paintings.</p>
 </blockquote>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/Alice-in-Wonderland-lighter.jpg" data-size="2246x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/Alice-in-Wonderland-lighter-thumbnail.jpg" alt="Alice meets the Caterpillar - oil on canvas - 78 x 87 - 2023" width="768" height="875"></a>
 <figcaption>Alice meets the Caterpillar - oil on canvas - 78 x 87 - 2023</figcaption>
 </figure>
@@ -59,8 +59,8 @@
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/Owl-and-the-Pussycat-2023-copy-2.jpg" data-size="2660x1038"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/Owl-and-the-Pussycat-2023-copy-2-thumbnail.jpg" alt="The Owl and the Pussycat - oil on canvas. - 39 x 17 cm - 2012" width="768" height="300"></a>
 <figcaption>The Owl and the Pussycat - oil on canvas. - 39 x 17 cm - 2012</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/The-Eternity-of-Life-2023-copy.jpg" data-size="1908x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/The-Eternity-of-Life-2023-copy-thumbnail.jpg" alt="The Eternity of Life – oil on panel – 45 x 61 cm - 2004" width="768" height="1030"></a>
-<figcaption>The Eternity of Life – oil on panel – 45 x 61 cm - 2004</figcaption>
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/The-Eternity-of-Life-2023-copy.jpg" data-size="1908x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/The-Eternity-of-Life-2023-copy-thumbnail.jpg" alt="The Seeds of Hope – oil on panel – 45 x 61 cm - 2006" width="768" height="1030"></a>
+<figcaption>The Seeds of Hope – oil on panel – 45 x 61 cm - 2006</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3//gallery/buddha_of-the_lotus.jpg" data-size="1910x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3//gallery/buddha_of-the_lotus-thumbnail.jpg" alt="The Buddha of the Lotus – 44 x 59 cm - 1998" width="768" height="1029"></a>
 <figcaption>The Buddha of the Lotus – 44 x 59 cm - 1998</figcaption>
@@ -101,8 +101,8 @@
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/Homage-to-AB.jpg" data-size="3005x4272"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/Homage-to-AB-thumbnail.jpg" alt="Homage to Arnold Bocklin - oil on canvas - 70 x 92 cm - 2001" width="768" height="1092"></a>
 <figcaption>Homage to Arnold Bocklin - oil on canvas - 70 x 92 cm - 2001</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/Trets-2010-2023-copy.jpg" data-size="2560x1949"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/Trets-2010-2023-copy-thumbnail.jpg" alt="Trets - oil on canvas - 86 x 66 cm - 2012" width="768" height="585"></a>
-<figcaption>Trets - oil on canvas - 86 x 66 cm - 2012</figcaption>
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/3/gallery/Trets-2010-2023-copy-2.jpg" data-size="2560x1949"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/3/gallery/Trets-2010-2023-copy-2-thumbnail.jpg" alt="SGI European Centre at Trets - oil on canvas - 86 x 66 cm - 2012" width="768" height="585"></a>
+<figcaption>SGI European Centre at Trets - oil on canvas - 86 x 66 cm - 2012</figcaption>
 </figure>
 </div></div>
             ]]>
@@ -118,7 +118,7 @@
         <media:content url="https://colinmurrayartist.com/media/posts/5/three_crowns.jpg" medium="image" />
 
         <updated>2023-10-10T13:16:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://colinmurrayartist.com/media/posts/5/three_crowns.jpg" alt="Three Crowns – oil on panel – 101 x 76" />
                     A selection of the many landscapes and city subjects that I hve painted over the years. Some of these pictures&hellip;
@@ -184,7 +184,7 @@
         <media:content url="https://colinmurrayartist.com/media/posts/6/after_the_floods-detail.jpg" medium="image" />
 
         <updated>2023-10-09T13:26:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://colinmurrayartist.com/media/posts/6/after_the_floods-detail.jpg" alt="After the Floods detail - oil on canvas" />
                     I have always been fascinated by ruins and overgrown churchyards, I don't know why. I live near Abney Park in&hellip;
@@ -251,7 +251,7 @@
         <media:content url="https://colinmurrayartist.com/media/posts/4/Sue-2023-copy-2.jpg" medium="image" />
 
         <updated>2023-10-08T13:05:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://colinmurrayartist.com/media/posts/4/Sue-2023-copy-2.jpg" alt="Sue - oil on panel - 39 x 42 cm - 1998" />
                     I have painted numerous portraits over the years including many commissions. Most of these pictures have been painted from life&hellip;
@@ -263,9 +263,9 @@
                 <blockquote>
 <p>I have painted numerous portraits over the years including many commissions. Most of these pictures have been painted  from life with photographic references to help with working out the backgrounds. Some of these paintings are still in my possession and are for sale.</p>
 </blockquote>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Samuel-Coleridge-Taylor-lighter.jpg" data-size="2366x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Samuel-Coleridge-Taylor-lighter-thumbnail.jpg" alt="Samuel Coleridge Taylor - oil on canvas - 55 x 60 cm - 2023" width="768" height="831"></a>
-<figcaption>Samuel Coleridge Taylor - oil on canvas - 55 x 60 cm - 2023</figcaption>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Samuel-Coleridge-Taylor-lighter.jpg" data-size="2366x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Samuel-Coleridge-Taylor-lighter-thumbnail.jpg" alt="Samuel Coleridge Taylor - oil on canvas - 55 x 60 cm - 2025" width="768" height="831"></a>
+<figcaption>Samuel Coleridge Taylor - oil on canvas - 55 x 60 cm - 2025</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Cookie-2023-copy.jpg" data-size="1408x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Cookie-2023-copy-thumbnail.jpg" alt="Cookie – oil on canvas – 61 x 111 cm - 2017" width="768" height="1396"></a>
 <figcaption>Cookie – oil on canvas – 61 x 111 cm - 2017</figcaption>
@@ -306,89 +306,26 @@
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Ben-2023-copy.jpg" data-size="1557x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Ben-2023-copy-thumbnail.jpg" alt="Ben – oil on panel – 81 x 137 cm - 2002" width="768" height="1263"></a>
 <figcaption>Ben – oil on panel – 81 x 137 cm - 2002</figcaption>
 </figure>
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Ben-drawing-low-res-2023.jpg" data-size="1993x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Ben-drawing-low-res-2023-thumbnail.jpg" alt="Ben - coloured pencil - 2002" width="768" height="986"></a>
+<figcaption>Ben - coloured pencil - 2002</figcaption>
+</figure>
 <figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Ross-2023-copy.jpg" data-size="2147x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Ross-2023-copy-thumbnail.jpg" alt="Ross - oil on canvas - 51 x 61 cm - 1999" width="768" height="916"></a>
 <figcaption>Ross - oil on canvas - 51 x 61 cm - 1999</figcaption>
 </figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Various</title>
-        <author>
-            <name>Colin Murray</name>
-        </author>
-        <link href="https://colinmurrayartist.com/miscellaneous.html"/>
-        <id>https://colinmurrayartist.com/miscellaneous.html</id>
-        <media:content url="https://colinmurrayartist.com/media/posts/8/Female-nude-drawing-2023-copy.jpg" medium="image" />
-
-        <updated>2023-10-02T13:35:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://colinmurrayartist.com/media/posts/8/Female-nude-drawing-2023-copy.jpg" alt="Life Drawing - 40 x 60 cm - 1994 " />
-                    This gallery contains a variety of pictures both old and new, including a few of my drawings and some canvas&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://colinmurrayartist.com/media/posts/8/Female-nude-drawing-2023-copy.jpg" class="type:primaryImage" alt="Life Drawing - 40 x 60 cm - 1994 " /></p>
-                <blockquote>
-<p>This gallery contains a variety of pictures both old and new, including a few of my drawings and some canvas prints. All of these works are for sale at reasonable prices. </p>
-</blockquote>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Still-life-with-Guinness-2023-copy.jpg" data-size="2560x1784"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Still-life-with-Guinness-2023-copy-thumbnail.jpg" alt="Still life with Guinness – stretcher-framed canvas print – 71 x 50 cm - 2005" width="768" height="535"></a>
-<figcaption>Still life with Guinness – stretcher-framed canvas print – 71 x 50 cm - 2005</figcaption>
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Anna-2023.jpg" data-size="2560x3637"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Anna-2023-thumbnail.jpg" alt="Anna - oil on panel - 43 x 58 cm - 2002" width="768" height="1091"></a>
+<figcaption>Anna - oil on panel - 43 x 58 cm - 2002</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Mermaid-and-dolphin-2.jpg" data-size="2560x2127"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Mermaid-and-dolphin-2-thumbnail.jpg" alt="Mermaid and Dolphin - stretcher-framed Fine Art quality canvas print - 72 x 59 cm - 2010" width="768" height="638"></a>
-<figcaption>Mermaid and Dolphin - stretcher-framed Fine Art quality canvas print - 72 x 59 cm - 2010</figcaption>
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Roddy.jpg" data-size="1444x1760"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Roddy-thumbnail.jpg" alt="Roddy - coloured pencil - 34 x 40 cm - 1998" width="768" height="936"></a>
+<figcaption>Roddy - coloured pencil - 34 x 40 cm - 1998</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Mermaid-and-fishes-2.jpg" data-size="3133x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Mermaid-and-fishes-2-thumbnail.jpg" alt="Mermaid Diving - stretcher-framed Fine Art quality canvas print - 72 x 59 cm - 2010" width="768" height="628"></a>
-<figcaption>Mermaid Diving - stretcher-framed Fine Art quality canvas print - 72 x 59 cm 2010</figcaption>
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Drawing-for-Rennactment.jpg" data-size="1681x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Drawing-for-Rennactment-thumbnail.jpg" alt="Study for 'testing my faith' - 49 x 65 cm - 1994" width="768" height="1170"></a>
+<figcaption>Study for 'testing my faith' - 49 x 65 cm - 1994</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Amie-hand-Frosty-2023-copy.jpg" data-size="1973x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Amie-hand-Frosty-2023-copy-thumbnail.jpg" alt="Secret Garden - stretcher-framed Fine Art quality canvas print - 42 x 54 cm - 2005" width="768" height="996"></a>
-<figcaption>Secret Garden - stretcher-framed Fine Art quality canvas print - 42 x 54 cm - 2005</figcaption>
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Drawing-portrait-of-Lana.jpg" data-size="2563x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Drawing-portrait-of-Lana-thumbnail.jpg" alt="Lana - coloured pencil - 35 x 35 cm - 1994" width="768" height="767"></a>
+<figcaption>Lana - coloured pencil - 35 x 35 cm - 1994</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Candles-and-Fruit.jpg" data-size="1685x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Candles-and-Fruit-thumbnail.jpg" alt="Candles and fruit - oil on panel - 46 x 68 cm - 1994" width="768" height="1167"></a>
-<figcaption>Candles and fruit - oil on panel - 46 x 68 cm - 1994</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Remake-Christ-mocked.jpg" data-size="2180x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Remake-Christ-mocked-thumbnail.jpg" alt="Reconstruction - oil on canvas - 78 x 91 cm - 1994" width="768" height="902"></a>
-<figcaption>Reconstruction - oil on canvas - 78 x 91 cm - 1994</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Drawing-for-Rennactment.jpg" data-size="1681x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Drawing-for-Rennactment-thumbnail.jpg" alt="Study for Reconstruction - pencil on tinted paper - 49 x 65 cm - 1994" width="768" height="1170"></a>
-<figcaption>Study for Reconstruction - pencil on tinted paper - 49 x 65 cm - 1994</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Wave-2023.jpg" data-size="2560x2042"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Wave-2023-thumbnail.jpg" alt="Wave (after G Seignac) - oil on canvas – 51 x 41 cm - 2015" width="768" height="613"></a>
-<figcaption>Wave (after G Seignac) - oil on canvas – 51 x 41 cm - 2015</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Wave-2-2023.jpg" data-size="2560x2051"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Wave-2-2023-thumbnail.jpg" alt="Wave 2 (after G Seignac) - oil on canvas - 51 x 41 cm - 2015" width="768" height="615"></a>
-<figcaption>Wave 2 (after G Seignac) - oil on canvas - 51 x 41 cm - 2015</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Night.-2023-copy.jpg" data-size="2560x2040"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Night.-2023-copy-thumbnail.jpg" alt="Night (after A Raynaud) – oil on canvas - 51 x 41 cm - 2015" width="768" height="612"></a>
-<figcaption>Night (after A Raynaud) – oil on canvas - 51 x 41 cm - 2015</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Statue-with-banaanas.jpg" data-size="2560x1608"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Statue-with-banaanas-thumbnail.jpg" alt="Statue with Bananas - oil on canvas - 58 x 36 cm - 2011" width="768" height="482"></a>
-<figcaption>Statue with Bananas - oil on canvas - 58 x 36 cm - 2011</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Female-nude-drawing-2023-copy.jpg" data-size="2113x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Female-nude-drawing-2023-copy-thumbnail.jpg" alt="Life Drawing - pencil on tinted paper - 40 x 60 cm - 1994" width="768" height="930"></a>
-<figcaption>Life Drawing - pencil on tinted paper - 40 x 60 cm - 1994</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Lane.jpg" data-size="2560x2751"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Lane-thumbnail.jpg" alt="Lana - pencil on tinted paper - 35 x 35 cm" width="768" height="825"></a>
-<figcaption>Lana - pencil on tinted paper - 35 x 35 cm</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Dave-double.jpg" data-size="2560x1760"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Dave-double-thumbnail.jpg" alt="Dave - pencil on tinted paper - 50 x 51 cm" width="768" height="528"></a>
-<figcaption>Dave - pencil on tinted paper - 50 x 51 cm</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Drawing-of-Carrina.jpg" data-size="1920x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Drawing-of-Carrina-thumbnail.jpg" alt="Carinna - pencil on tinted paper - 31 x 38 cm" width="768" height="1024"></a>
-<figcaption>Carinna - pencil on tinted paper - 31 x 38 cm</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/seated-woman-facing-right.jpg" data-size="1852x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/seated-woman-facing-right-thumbnail.jpg" alt="Sue - pencil on tinted paper - 60 x 45 cm" width="768" height="1062"></a>
-<figcaption>Sue - pencil on tinted paper - 60 x 45 cm</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Jack.jpg" data-size="1965x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Jack-thumbnail.jpg" alt="Jack - pencil on tinted paper - 30 x 33 cm" width="768" height="1001"></a>
-<figcaption>Jack - pencil on tinted paper - 30 x 33 cm</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/8/gallery/Toucan-with-Guinness-T-shirt-2023.jpg" data-size="1843x2560"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/8/gallery/Toucan-with-Guinness-T-shirt-2023-thumbnail.jpg" alt="Toucan with Guinness - hand painted T Shirt that's never been worn" width="768" height="1067"></a>
-<figcaption>Toucan with Guinness - hand painted T Shirt that's never been worn</figcaption>
+<figure class="gallery__item"><a href="https://colinmurrayartist.com/media/posts/4/gallery/Drawing-portrits-of-David-W.jpg" data-size="2560x1854"><img decoding="async" loading="lazy" src="https://colinmurrayartist.com/media/posts/4/gallery/Drawing-portrits-of-David-W-thumbnail.jpg" alt="Dave - coloured pencil - 50 x 51 cm - 1990" width="768" height="556"></a>
+<figcaption>Dave - coloured pencil - 50 x 51 cm - 1990</figcaption>
 </figure>
 </div></div>
             ]]>
@@ -404,7 +341,7 @@
         <media:content url="https://colinmurrayartist.com/media/posts/7/Green-Man-T-shirt-1.jpg" medium="image" />
 
         <updated>2023-10-01T13:31:00+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://colinmurrayartist.com/media/posts/7/Green-Man-T-shirt-1.jpg" alt="Green Man" />
                     Most of the images in this gallery are painted onto T Shirts using Pebeo Fabric Paint. Many of the subjects&hellip;
@@ -500,7 +437,7 @@
         <media:content url="https://colinmurrayartist.com/media/posts/1/SP-spectacles-2.jpg" medium="image" />
 
         <updated>2023-09-27T11:08:22+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://colinmurrayartist.com/media/posts/1/SP-spectacles-2.jpg" alt="Self-portrait coloured pencil on tinted paper" />
                     II was born in 1956 and I began painting in oils when I was twelve years old. When I was&hellip;
